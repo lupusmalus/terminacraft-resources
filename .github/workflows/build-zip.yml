@@ -30,3 +30,8 @@ jobs:
         with:
           filename: 'terminacraft.zip'
           exclusions: 'README.md'
+          
+      - uses: actions/upload-artifact@v1
+        with:
+          name: terminacraft
+          path: ${{ github.workspace }}/terminacraft.zip
