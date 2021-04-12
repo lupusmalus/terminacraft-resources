@@ -34,10 +34,4 @@ jobs:
         with:
           name: terminacraft
           path: ${{ github.workspace }}/terminacraft.zip
-      - name: Update zip 
-        run: | 
-          git config --local user.name "build"
-          git pull
-          git add ./terminacraft.zip
-          git commit -am "update zip"
-          git push
+
