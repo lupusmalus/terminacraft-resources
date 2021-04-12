@@ -24,14 +24,15 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
             
-      - name: Zip Release
-        uses: TheDoctor0/zip-release@0.4.1
-        with:
-          filename: 'terminacraft.zip'
-          exclusions: 'README.md, .git, .github, terminacraft.zip'
+      - name: Create zip
+        run:  zip terminacraft.zip assets pack.mcmeta pack.png
+      
           
-      - uses: actions/upload-artifact@v1
-        with:
-          name: terminacraft
-          path: ${{ github.workspace }}/terminacraft.zip
+      - name: Update zip 
+        run: | 
+          git config --local user.name "build"
+          git pull
+          git add ./terminacraft.zip
+          git commit -am "update zip"
+          git push
 
