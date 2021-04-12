@@ -28,7 +28,7 @@ jobs:
         uses: TheDoctor0/zip-release@0.4.1
         with:
           filename: 'terminacraft.zip'
-          exclusions: 'README.md'
+          exclusions: 'README.md, .git, .github, terminacraft.zip'
           
       - uses: actions/upload-artifact@v1
         with:
