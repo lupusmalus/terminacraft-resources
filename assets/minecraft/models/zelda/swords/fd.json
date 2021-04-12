@@ -1,0 +1,32 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "zelda/swords/fd"
+    },
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 45 ],
+            "translation": [ 0, 10, 2 ],
+            "scale": [ 1.55, 1.55, 0.4 ]
+        },
+		"thirdperson_lefthand": {
+            "rotation": [ -45, 90, 0 ],
+            "translation": [ 0, 10, 2 ],
+            "scale": [ 1.55, 1.55, 0.4 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -10, 90, 45 ],
+            "translation": [ 4, 6, -4 ],
+            "scale": [ 1.2, 1.2, 0.4 ]
+        },
+		"firstperson_lefthand": {
+            "rotation": [ -45, 90, -10 ],
+            "translation": [ 4, 6, -4 ],
+            "scale": [ 1.2, 1.2, 0.4 ]
+        },
+		"fixed": {
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 90]
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "zelda/weapons/master_beam",
+		"particle": "zelda/weapons/master_beam"
+	},
+	"elements": [
+		{
+			"from": [-8, 7, -6],
+			"to": [24, 7.001, 26],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0", "rotation": 180}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4],
+			"translation": [0, 3.5, 0],
+			"rotation": [15, 0, 0]
+		}
+	}
+}

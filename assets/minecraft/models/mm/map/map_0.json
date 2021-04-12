@@ -1,0 +1,5 @@
+{"parent": "minecraft:mm/map/map_square",
+	"textures": {
+		"0": "mm/map/map_0"
+	}
+}

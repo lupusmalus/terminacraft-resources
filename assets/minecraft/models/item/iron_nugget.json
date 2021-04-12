@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1000000}, "model": "mm/gui/action/shoot_none"},
+
+    { "predicate": { "custom_model_data": 2000100}, "model": "mm/test/square"},
+    { "predicate": { "custom_model_data": 2000000}, "model": "mm/map/map_0"},
+    { "predicate": { "custom_model_data": 2000001}, "model": "mm/map/map_1"},
+    { "predicate": { "custom_model_data": 2000002}, "model": "mm/map/map_2"},
+    { "predicate": { "custom_model_data": 2000003}, "model": "mm/map/map_3"},
+    { "predicate": { "custom_model_data": 2000004}, "model": "mm/map/map_4"},
+    { "predicate": { "custom_model_data": 2000005}, "model": "mm/map/map_5"},
+    { "predicate": { "custom_model_data": 2000006}, "model": "mm/map/map_6"},
+    { "predicate": { "custom_model_data": 2000007}, "model": "mm/map/map_7"},
+    { "predicate": { "custom_model_data": 2000008}, "model": "mm/map/map_8"},
+    { "predicate": { "custom_model_data": 2000009}, "model": "mm/map/map_9"},
+    { "predicate": { "custom_model_data": 2000010}, "model": "mm/map/map_10"},
+    { "predicate": { "custom_model_data": 2000011}, "model": "mm/map/map_11"},
+    { "predicate": { "custom_model_data": 2000012}, "model": "mm/map/map_12"},
+    { "predicate": { "custom_model_data": 2000013}, "model": "mm/map/map_13"},
+    { "predicate": { "custom_model_data": 2000014}, "model": "mm/map/map_14"},
+    { "predicate": { "custom_model_data": 2000015}, "model": "mm/map/map_15"},
+    { "predicate": { "custom_model_data": 2000016}, "model": "mm/map/map_16"},
+    { "predicate": { "custom_model_data": 2000017}, "model": "mm/map/map_17"},
+    { "predicate": { "custom_model_data": 2000018}, "model": "mm/map/map_18"},
+    { "predicate": { "custom_model_data": 2000019}, "model": "mm/map/map_19"},
+    { "predicate": { "custom_model_data": 2000020}, "model": "mm/map/map_20"},
+    { "predicate": { "custom_model_data": 2000021}, "model": "mm/map/map_21"},
+    { "predicate": { "custom_model_data": 2000022}, "model": "mm/map/map_22"},
+    { "predicate": { "custom_model_data": 2000023}, "model": "mm/map/map_23"},
+    { "predicate": { "custom_model_data": 2000024}, "model": "mm/map/map_24"},
+    { "predicate": { "custom_model_data": 2000025}, "model": "mm/map/map_25"},
+    { "predicate": { "custom_model_data": 2000026}, "model": "mm/map/map_26"},
+    { "predicate": { "custom_model_data": 2000027}, "model": "mm/map/map_27"},
+    { "predicate": { "custom_model_data": 3000001}, "model": "mm/gui/abutton"},
+    { "predicate": { "custom_model_data": 3000002}, "model": "mm/gui/rbutton"},
+    { "predicate": { "custom_model_data": 3000003}, "model": "mm/gui/zbutton"},
+    
+    { "predicate": { "custom_model_data": 8000000}, "model": "mm/blocks/mailbox"},
+    { "predicate": { "custom_model_data": 8000001}, "model": "mm/blocks/pillar"},
+    { "predicate": { "custom_model_data": 9000000}, "model": "mm/mobs/stray_fairy_CT"}
+
+  ]
+}

@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "zelda/boomerang/boomerang_gone"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 4, -3.25],
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 90, 0],
+			"translation": [0, 4, -3.25],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [20, -88, -9],
+			"translation": [1.5, 6, -4],
+			"scale": [-1, 1, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [20, -88, -9],
+			"translation": [1.5, 6, -4]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"scale": [1.32, 1.32, 1.32]
+		}
+	}
+}

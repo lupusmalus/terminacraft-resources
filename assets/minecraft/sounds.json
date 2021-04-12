@@ -1,0 +1,200 @@
+{
+    "mm.player.mask_on" : {
+        "sounds":[
+            "mm/player/mask_on"
+        ]
+    },
+
+    "mm.player.mask_off" : {
+        "sounds":[
+            "mm/player/mask_off"
+        ]
+    },
+
+    "mm.player.deku.flower_launch" : {
+        "sounds":[
+            "mm/player/deku/flower_launch"
+        ]
+    },
+
+    "mm.player.deku.flower_dive" : {
+        "sounds":[
+            "mm/player/deku/flower_dive"
+        ]
+    },
+
+    "mm.player.deku.flower_drop" : {
+        "sounds":[
+            "mm/player/deku/flower_drop"
+        ]
+    },
+
+    "mm.player.deku.flower_flap" : {
+        "sounds":[
+            "mm/player/deku/flower_flap"
+        ]
+    },
+    
+    "mm.time.day" : {
+        "sounds":[
+            "mm/time/day"
+        ]
+    },
+
+    "mm.time.night" : {
+        "sounds":[
+            "mm/time/night"
+        ]
+    },
+
+    "mm.time.tick" : {
+        "sounds":[
+            "mm/time/tick"
+        ]
+    },
+
+    "mm.time.bell" : {
+        "sounds":[
+            "mm/time/bell"
+        ]
+    },
+
+    "mm.music.chase": {
+        "sounds":[
+            "mm/music/chase"
+        ]
+    },
+
+    "mm.music.clocktower": {
+        "sounds":[
+            "mm/music/clocktower"
+        ]
+    },
+
+    "mm.music.clocktown1": {
+        "sounds":[
+            "mm/music/clocktown1"
+        ]
+    },
+
+    "mm.music.clocktown2": {
+        "sounds":[
+            "mm/music/clocktown2"
+        ]
+    },
+
+    "mm.music.clocktown3": {
+        "sounds":[
+            "mm/music/clocktown3"
+        ]
+    },
+
+    "mm.music.storms": {
+        "sounds":[
+            "mm/music/storms"
+        ]
+    },
+
+    "mm.music.shop": {
+        "sounds":[
+            "mm/music/shop"
+        ]
+    },
+
+    "mm.music.fairyfountain": {
+        "sounds":[
+            "mm/music/fairyfountain"
+        ]
+    },
+
+    "mm.objects.door.stone.open": {
+        "sounds":[
+            "mm/objects/door_stone_open"
+        ]
+    },
+
+    "mm.objects.door.stone.close": {
+        "sounds":[
+            "mm/objects/door_stone_close"
+        ]
+    },
+
+
+    "mm.mobs.strayfairy": {
+        "sounds":[
+            "mm/mobs/strayfairy"
+        ]
+    },
+
+    "mm.mobs.greatfairy": {
+        "sounds":[
+            "mm/mobs/greatfairy"
+        ]
+    },
+
+    "mm.item.pickup": {
+        "sounds":[
+            "mm/item/pickup"
+        ]
+    },
+
+    "mm.item.select": {
+        "sounds":[
+            "mm/item/select"
+        ]
+    },
+
+    "mm.item.getitem": {
+        "sounds":[
+            "mm/item/getitem"
+        ]
+    },
+
+    "mm.item.getrupee": {
+        "sounds":[
+            "mm/item/getrupee"
+        ]
+    },
+
+    "mm.ocarina.l": {
+        "sounds":[
+            "mm/ocarina/l"
+        ]
+    },
+
+    "mm.ocarina.r": {
+        "sounds":[
+            "mm/ocarina/r"
+        ]
+    },
+
+    "mm.ocarina.d": {
+        "sounds":[
+            "mm/ocarina/d"
+        ]
+    },
+
+    "mm.ocarina.u": {
+        "sounds":[
+            "mm/ocarina/u"
+        ]
+    },
+
+    "mm.ocarina.a": {
+        "sounds":[
+            "mm/ocarina/a"
+        ]
+    },
+
+    "mm.ocarina.time": {
+        "sounds":[
+            "mm/ocarina/time"
+        ]
+    },
+
+    "mm.ocarina.healing": {
+        "sounds":[
+            "mm/ocarina/healing"
+        ]
+    }
+}

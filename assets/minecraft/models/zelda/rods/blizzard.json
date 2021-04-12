@@ -1,0 +1,37 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "zelda/weapons/ice_rod_2"
+    },
+		"display": 
+	{
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 45 ],
+            "translation": [ 0, 4, 2 ],
+            "scale": [ 1, 1, 1 ]
+        },
+		"thirdperson_lefthand": {
+            "rotation": [ -45, 90, 0 ],
+            "translation": [ 0, 4, 2 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -10, 90, 20 ],
+            "translation": [ 4, 3, -4 ],
+            "scale": [ 1, 1, 1 ]
+        },
+		"firstperson_lefthand": {
+            "rotation": [ -80, 90, 0 ],
+            "translation": [ 4, 3, -4 ],
+            "scale": [ 1, 1, 1 ]
+        }
+
+	},
+	"display": {
+		"fixed": {
+			"scale": [2, 2, 2],
+			"translation": [0, 0, -16],
+			"rotation": [-70, 0, 0]
+		}
+	}
+}

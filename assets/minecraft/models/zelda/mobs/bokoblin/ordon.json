@@ -1,0 +1,32 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "zelda/mobs/bokoblin/ordon"
+    },
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 45 ],
+            "translation": [ 0, 7, 2 ],
+            "scale": [ 1.3, 1.3, 0.4 ]
+        },
+		"thirdperson_lefthand": {
+            "rotation": [ -45, 90, 0 ],
+            "translation": [ 0, 7, 2 ],
+            "scale": [ 1.3, 1.3, 0.4 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -10, 90, 45 ],
+            "translation": [ 4, 5, -4 ],
+            "scale": [ 1.2, 1.2, 0.4 ]
+        },
+		"firstperson_lefthand": {
+            "rotation": [ -45, 90, -10 ],
+            "translation": [ 4, 5, -4 ],
+            "scale": [ 1.2, 1.2, 0.4 ]
+        },
+		"fixed": {
+			"scale": [3, 3, 3],
+			"rotation": [0, 0, 90]
+		}
+	}
+}

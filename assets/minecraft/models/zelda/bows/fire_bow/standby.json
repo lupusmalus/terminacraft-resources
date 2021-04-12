@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "zelda/bow/fire_bow/standby"
+    }
+}

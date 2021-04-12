@@ -1,0 +1,58 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+  "overrides": [
+    
+    { "predicate": { "custom_model_data": 1000000}, "model": "mm/gui/action/shoot"},
+    { "predicate": { "custom_model_data": 1000001}, "model": "mm/gui/action/punch"},
+    { "predicate": { "custom_model_data": 1000002}, "model": "mm/gui/action/empty"},
+    { "predicate": { "custom_model_data": 1000003}, "model": "mm/gui/action/open"},
+
+
+
+
+    { "predicate": { "custom_model_data": 8000000}, "model": "mm/items/ocarina"},
+    { "predicate": { "custom_model_data": 8000001}, "model": "mm/items/bow"},
+    { "predicate": { "custom_model_data": 8000002}, "model": "mm/items/fire_arrow"},
+    { "predicate": { "custom_model_data": 8000003}, "model": "mm/items/ice_arrow"},
+    { "predicate": { "custom_model_data": 8000004}, "model": "mm/items/light_arrow"},
+    { "predicate": { "custom_model_data": 8000005}, "model": "mm/items/bomb"},
+    { "predicate": { "custom_model_data": 8000006}, "model": "mm/items/bombchu"},
+    { "predicate": { "custom_model_data": 8000007}, "model": "mm/items/deku_stick"},
+    { "predicate": { "custom_model_data": 8000008}, "model": "mm/items/deku_nut"},
+    { "predicate": { "custom_model_data": 8000009}, "model": "mm/items/magic_beans"},
+    { "predicate": { "custom_model_data": 8000010}, "model": "mm/items/powder_keg"},
+    { "predicate": { "custom_model_data": 8000011}, "model": "mm/items/picto_box"},
+    { "predicate": { "custom_model_data": 8000012}, "model": "mm/items/lense"},
+    { "predicate": { "custom_model_data": 8000013}, "model": "mm/items/hookshot"},
+    { "predicate": { "custom_model_data": 8000014}, "model": "mm/items/gf_sword"},
+    { "predicate": { "custom_model_data": 8000015}, "model": "mm/items/empty_bottle"},
+      
+    { "predicate": { "custom_model_data": 9000000}, "model": "mm/masks/postman"},
+    { "predicate": { "custom_model_data": 9000001}, "model": "mm/masks/all_night"},
+    { "predicate": { "custom_model_data": 9000002}, "model": "mm/masks/blast"},
+    { "predicate": { "custom_model_data": 9000003}, "model": "mm/masks/stone"},
+    { "predicate": { "custom_model_data": 9000004}, "model": "mm/masks/great_fairy"},
+    { "predicate": { "custom_model_data": 9000005}, "model": "mm/masks/deku"},
+    { "predicate": { "custom_model_data": 9000006}, "model": "mm/masks/keaton"},
+    { "predicate": { "custom_model_data": 9000007}, "model": "mm/masks/bremen"},
+    { "predicate": { "custom_model_data": 9000008}, "model": "mm/masks/bunny"},
+    { "predicate": { "custom_model_data": 9000009}, "model": "mm/masks/don_gero"},
+    { "predicate": { "custom_model_data": 9000010}, "model": "mm/masks/scents"},
+    { "predicate": { "custom_model_data": 9000011}, "model": "mm/masks/goron"},
+    { "predicate": { "custom_model_data": 9000012}, "model": "mm/masks/romani"},
+    { "predicate": { "custom_model_data": 9000013}, "model": "mm/masks/circus_leader"},
+    { "predicate": { "custom_model_data": 9000014}, "model": "mm/masks/kafei"},
+    { "predicate": { "custom_model_data": 9000015}, "model": "mm/masks/couples"},
+    { "predicate": { "custom_model_data": 9000016}, "model": "mm/masks/truth"},
+    { "predicate": { "custom_model_data": 9000017}, "model": "mm/masks/zora"},
+    { "predicate": { "custom_model_data": 9000018}, "model": "mm/masks/kamaro"},
+    { "predicate": { "custom_model_data": 9000019}, "model": "mm/masks/gibdo"},
+    { "predicate": { "custom_model_data": 9000020}, "model": "mm/masks/garo"},
+    { "predicate": { "custom_model_data": 9000021}, "model": "mm/masks/captain"},
+    { "predicate": { "custom_model_data": 9000022}, "model": "mm/masks/giant"},
+    { "predicate": { "custom_model_data": 9000023}, "model": "mm/masks/fierce_diety"}
+  ]
+}

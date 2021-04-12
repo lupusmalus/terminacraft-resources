@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "zelda/bow/ice_bow_pulling_1"
+    }
+}

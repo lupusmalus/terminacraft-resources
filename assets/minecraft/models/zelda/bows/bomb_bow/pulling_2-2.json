@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "zelda/bow/bomb_bow/pulling_2-2"
+    }
+}

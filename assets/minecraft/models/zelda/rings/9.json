@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "zelda/rings/9"
+    },
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-1.75, -0.25, 0],
+			"scale": [0.14063, 0.14063, 0.14063]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 90],
+			"translation": [-1.75, -0.25, 0],
+			"scale": [0.14063, 0.14063, 0.14063]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		}
+	}
+}
