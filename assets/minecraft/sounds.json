@@ -23,6 +23,13 @@
         ]
     },
 
+    
+    "mm.player.deku.deku_bubble" : {
+        "sounds":[
+            "mm/player/deku/deku_bubble"
+        ]
+    },
+
     "mm.player.deku.flower_drop" : {
         "sounds":[
             "mm/player/deku/flower_drop"
