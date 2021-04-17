@@ -41,7 +41,10 @@
     
     { "predicate": { "custom_model_data": 8000000}, "model": "mm/blocks/mailbox"},
     { "predicate": { "custom_model_data": 8000001}, "model": "mm/blocks/pillar"},
-    { "predicate": { "custom_model_data": 9000000}, "model": "mm/mobs/stray_fairy_CT"}
+    { "predicate": { "custom_model_data": 8000002}, "model": "mm/blocks/balloon"},
+    { "predicate": { "custom_model_data": 9000000}, "model": "mm/mobs/stray_fairy_CT"},
+    { "predicate": { "custom_model_data": 9000001}, "model": "mm/mobs/deku_bubble"}
+
 
   ]
 }
