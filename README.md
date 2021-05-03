@@ -1,4 +1,4 @@
 # terminacraft-resources
 
 
-testing actions 2
+Official terminacraft resource pack
