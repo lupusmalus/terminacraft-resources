@@ -38,12 +38,15 @@
     { "predicate": { "custom_model_data": 3000001}, "model": "mm/gui/abutton"},
     { "predicate": { "custom_model_data": 3000002}, "model": "mm/gui/rbutton"},
     { "predicate": { "custom_model_data": 3000003}, "model": "mm/gui/zbutton"},
+    { "predicate": { "custom_model_data": 4000000}, "model": "mm/player/dekuplanner"},
     
     { "predicate": { "custom_model_data": 8000000}, "model": "mm/blocks/mailbox"},
     { "predicate": { "custom_model_data": 8000001}, "model": "mm/blocks/pillar"},
     { "predicate": { "custom_model_data": 8000002}, "model": "mm/blocks/balloon"},
     { "predicate": { "custom_model_data": 9000000}, "model": "mm/mobs/stray_fairy_CT"},
     { "predicate": { "custom_model_data": 9000001}, "model": "mm/mobs/deku_bubble"}
+
+
 
 
   ]
