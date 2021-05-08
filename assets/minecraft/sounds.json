@@ -139,11 +139,65 @@
         ]
     },
 
+    "mm.mobs.bomber.caught": {
+        "sounds":[
+            "mm/mobs/bomber_caught"
+        ]
+    },
+
+    "mm.mobs.bomber.aww": {
+        "sounds":[
+            "mm/mobs/bomber_aww"
+        ]
+    },
+
+    "mm.menu.confirm": {
+        "sounds":[
+            "mm/menu/confirm"
+        ]
+    },
+
+    "mm.menu.error": {
+        "sounds":[
+            "mm/menu/error"
+        ]
+    },
+
     "mm.item.pickup": {
         "sounds":[
             "mm/item/pickup"
         ]
     },
+
+    "mm.item.use": {
+        "sounds":[
+            "mm/item/use"
+        ]
+    },
+
+    "mm.item.mask_on": {
+        "sounds":[
+            "mm/item/mask_on"
+        ]
+    },
+    "mm.item.mask_off": {
+        "sounds":[
+            "mm/item/mask_off"
+        ]
+    },
+
+    "mm.item.transform.mask_on": {
+        "sounds":[
+            "mm/item/mask_transform_on"
+        ]
+    },
+
+    "mm.item.transform.mask_off": {
+        "sounds":[
+            "mm/item/mask_transform_off"
+        ]
+    },
+
 
     "mm.item.select": {
         "sounds":[
