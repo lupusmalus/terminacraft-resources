@@ -199,6 +199,12 @@
     },
 
 
+    "mm.item.smallitem": {
+        "sounds":[
+            "mm/item/smallitem"
+        ]
+    },
+
     "mm.item.select": {
         "sounds":[
             "mm/item/select"
