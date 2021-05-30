@@ -72,6 +72,12 @@
         ]
     },
 
+    "mm.music.minigame": {
+        "sounds":[
+            "mm/music/mini-game"
+        ]
+    },
+
     "mm.music.clocktower": {
         "sounds":[
             "mm/music/clocktower"
@@ -102,6 +108,18 @@
         ]
     },
 
+    "mm.music.observatory": {
+        "sounds":[
+            "mm/music/observatory"
+        ]
+    },
+
+    "mm.music.termina": {
+        "sounds":[
+            "mm/music/termina"
+        ]
+    },
+
     "mm.music.shop": {
         "sounds":[
             "mm/music/shop"
@@ -114,11 +132,34 @@
         ]
     },
 
+
+    "mm.event.moonstear": {
+        "sounds":[
+            "mm/event/moons_tear"
+        ]
+    },
+
     "mm.objects.door.stone.open": {
         "sounds":[
             "mm/objects/door_stone_open"
         ]
     },
+
+    
+    "mm.action.hole": {
+        "sounds":[
+            "mm/action/hole"
+        ]
+    },
+
+        
+    "mm.action.hole_out": {
+        "sounds":[
+            "mm/action/exit_hole"
+        ]
+    },
+
+
 
     "mm.objects.door.stone.close": {
         "sounds":[

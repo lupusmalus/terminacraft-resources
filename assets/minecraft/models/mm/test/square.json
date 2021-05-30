@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "mm/map/square",
-		"particle": "mm/masks/head/ZELDA MAJORA'S MASK#10E81CAB#2#1#3D095B9C_ciByRGBA"
+		"1": "mm/map/square"
 	},
 	"elements": [
 		{
