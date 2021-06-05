@@ -9,6 +9,8 @@
     { "predicate": { "custom_model_data": 1000001}, "model": "mm/gui/action/punch"},
     { "predicate": { "custom_model_data": 1000002}, "model": "mm/gui/action/empty"},
     { "predicate": { "custom_model_data": 1000003}, "model": "mm/gui/action/open"},
+    { "predicate": { "custom_model_data": 1000004}, "model": "mm/gui/action/check"},
+
 
 
 

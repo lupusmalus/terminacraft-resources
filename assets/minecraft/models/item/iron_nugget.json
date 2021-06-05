@@ -35,19 +35,38 @@
     { "predicate": { "custom_model_data": 2000025}, "model": "mm/map/map_25"},
     { "predicate": { "custom_model_data": 2000026}, "model": "mm/map/map_26"},
     { "predicate": { "custom_model_data": 2000027}, "model": "mm/map/map_27"},
+
     { "predicate": { "custom_model_data": 3000001}, "model": "mm/gui/abutton"},
     { "predicate": { "custom_model_data": 3000002}, "model": "mm/gui/rbutton"},
     { "predicate": { "custom_model_data": 3000003}, "model": "mm/gui/zbutton"},
     { "predicate": { "custom_model_data": 3000004}, "model": "mm/gui/vignette"},
+
     { "predicate": { "custom_model_data": 4000000}, "model": "mm/player/dekuplanner"},
+
     { "predicate": { "custom_model_data": 5000000}, "model": "mm/painting/milkbar"},
     { "predicate": { "custom_model_data": 5000001}, "model": "mm/painting/clock"},
     { "predicate": { "custom_model_data": 5000002}, "model": "mm/painting/clock_small"},
+    { "predicate": { "custom_model_data": 5000003}, "model": "mm/painting/inn"},
+    { "predicate": { "custom_model_data": 5000004}, "model": "mm/painting/construction"},
+    { "predicate": { "custom_model_data": 5000005}, "model": "mm/painting/chestgame"},
+    { "predicate": { "custom_model_data": 5000006}, "model": "mm/painting/bombshop"},
+    { "predicate": { "custom_model_data": 5000007}, "model": "mm/painting/bank"},
+    { "predicate": { "custom_model_data": 5000008}, "model": "mm/painting/post"},
+    { "predicate": { "custom_model_data": 5000009}, "model": "mm/painting/lottery"},
+    { "predicate": { "custom_model_data": 5000010}, "model": "mm/painting/mayor"},
+    { "predicate": { "custom_model_data": 5000011}, "model": "mm/painting/bankad"},
+
+
     { "predicate": { "custom_model_data": 7000000}, "model": "mm/masks/head/keaton"},
     { "predicate": { "custom_model_data": 7000001}, "model": "mm/masks/head/bunny"},
+
     { "predicate": { "custom_model_data": 8000000}, "model": "mm/blocks/mailbox"},
     { "predicate": { "custom_model_data": 8000001}, "model": "mm/blocks/pillar"},
     { "predicate": { "custom_model_data": 8000002}, "model": "mm/blocks/balloon"},
+    { "predicate": { "custom_model_data": 8000003}, "model": "mm/blocks/chest_small_closed"},
+    { "predicate": { "custom_model_data": 8000004}, "model": "mm/blocks/chest_small_open"},
+
+
     { "predicate": { "custom_model_data": 9000000}, "model": "mm/mobs/stray_fairy_CT"},
     { "predicate": { "custom_model_data": 9000001}, "model": "mm/mobs/deku_bubble"},
     { "predicate": { "custom_model_data": 9000002}, "model": "mm/mobs/pierre_full"},
