@@ -227,6 +227,20 @@
         ]
     },
 
+    "mm.dekunut.snap": {
+        "sounds":[
+            "mm/item/dekunut_snap"
+        ]
+    },
+    
+    "mm.dekunut.drop": {
+        "sounds":[
+            "mm/item/dekunut_drop"
+        ]
+    },
+
+
+
     "mm.item.transform.mask_on": {
         "sounds":[
             "mm/item/mask_transform_on"

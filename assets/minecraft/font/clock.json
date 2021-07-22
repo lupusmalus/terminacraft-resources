@@ -3,7 +3,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/ascii.png",
-            "ascent": -26,
+            "height": 7,
+            "ascent": -36,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -26,8 +27,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:mm/gui/sun.png",
-            "height": 15,
-            "ascent": -22,
+            "height": 11,
+            "ascent": -32,
             "chars": [
                 "\u2600"
             ]
@@ -35,8 +36,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:mm/gui/moon.png",
-            "height": 15,
-            "ascent": -22,
+            "height": 11,
+            "ascent": -32,
             "chars": [
                 "\u263D"
             ]

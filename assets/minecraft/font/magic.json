@@ -28,7 +28,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/magic_left_full.png",
             "height": 10,
-            "ascent": -25,
+            "ascent": -24,
             "chars": [
                 "\u0032"
             ]
@@ -38,7 +38,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/magic_mid_full.png",
             "height": 10,
-            "ascent": -25,
+            "ascent": -24,
             "chars": [
                 "\u0035"
             ]
@@ -48,7 +48,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/magic_right_full.png",
             "height": 10,
-            "ascent": -25,
+            "ascent": -24,
             "chars": [
                 "\u0038"
             ]
@@ -59,7 +59,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/magic_left_empty.png",
             "height": 10,
-            "ascent": -25,
+            "ascent": -24,
             "chars": [
                 "\u0030"
             ]
@@ -69,7 +69,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/magic_mid_empty.png",
             "height": 10,
-            "ascent": -25,
+            "ascent": -24,
             "chars": [
                 "\u0033"
             ]
@@ -79,7 +79,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/magic_right_empty.png",
             "height": 10,
-            "ascent": -25,
+            "ascent": -24,
             "chars": [
                 "\u0036"
             ]
@@ -89,7 +89,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/magic_left_half.png",
             "height": 10,
-            "ascent": -25,
+            "ascent": -24,
             "chars": [
                 "\u0031"
             ]
@@ -99,7 +99,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/magic_mid_half.png",
             "height": 10,
-            "ascent": -25,
+            "ascent": -24,
             "chars": [
                 "\u0034"
             ]
@@ -109,9 +109,19 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/magic_right_half.png",
             "height": 10,
-            "ascent": -25,
+            "ascent": -24,
             "chars": [
                 "\u0037"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:mm/gui/magic_nil.png",
+            "height": 10,
+            "ascent": -32767,
+            "chars": [
+                "\u0039"
             ]
         },
 

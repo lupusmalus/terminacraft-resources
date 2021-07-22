@@ -65,6 +65,8 @@
     { "predicate": { "custom_model_data": 8000002}, "model": "mm/blocks/balloon"},
     { "predicate": { "custom_model_data": 8000003}, "model": "mm/blocks/chest_small_closed"},
     { "predicate": { "custom_model_data": 8000004}, "model": "mm/blocks/chest_small_open"},
+    { "predicate": { "custom_model_data": 8000005}, "model": "mm/blocks/dropnut"},
+
 
 
     { "predicate": { "custom_model_data": 9000000}, "model": "mm/mobs/stray_fairy_CT"},
