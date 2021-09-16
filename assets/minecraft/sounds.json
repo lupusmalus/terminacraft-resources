@@ -167,10 +167,22 @@
         ]
     },
 
+    "mm.objects.owlstatueopen": {
+        "sounds":[
+            "mm/objects/owl_statue_open"
+        ]
+    },
+
 
     "mm.mobs.strayfairy": {
         "sounds":[
             "mm/mobs/strayfairy"
+        ]
+    },
+
+    "mm.mobs.tingle.falling": {
+        "sounds":[
+            "mm/mobs/tingle_falling"
         ]
     },
 

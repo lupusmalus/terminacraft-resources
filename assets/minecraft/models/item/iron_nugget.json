@@ -42,6 +42,8 @@
     { "predicate": { "custom_model_data": 3000004}, "model": "mm/gui/vignette"},
 
     { "predicate": { "custom_model_data": 4000000}, "model": "mm/player/dekuplanner"},
+    { "predicate": { "custom_model_data": 4000001}, "model": "mm/player/gorondrums"},
+
 
     { "predicate": { "custom_model_data": 5000000}, "model": "mm/painting/milkbar"},
     { "predicate": { "custom_model_data": 5000001}, "model": "mm/painting/clock"},
@@ -55,10 +57,14 @@
     { "predicate": { "custom_model_data": 5000009}, "model": "mm/painting/lottery"},
     { "predicate": { "custom_model_data": 5000010}, "model": "mm/painting/mayor"},
     { "predicate": { "custom_model_data": 5000011}, "model": "mm/painting/bankad"},
+    { "predicate": { "custom_model_data": 5000012}, "model": "mm/painting/indiegogos"},
+    { "predicate": { "custom_model_data": 5000013}, "model": "mm/painting/army"},
+
 
 
     { "predicate": { "custom_model_data": 7000000}, "model": "mm/masks/head/keaton"},
     { "predicate": { "custom_model_data": 7000001}, "model": "mm/masks/head/bunny"},
+    { "predicate": { "custom_model_data": 7000002}, "model": "mm/masks/head/majora"},
 
     { "predicate": { "custom_model_data": 8000000}, "model": "mm/blocks/mailbox"},
     { "predicate": { "custom_model_data": 8000001}, "model": "mm/blocks/pillar"},
@@ -66,6 +72,11 @@
     { "predicate": { "custom_model_data": 8000003}, "model": "mm/blocks/chest_small_closed"},
     { "predicate": { "custom_model_data": 8000004}, "model": "mm/blocks/chest_small_open"},
     { "predicate": { "custom_model_data": 8000005}, "model": "mm/blocks/dropnut"},
+    { "predicate": { "custom_model_data": 8000006}, "model": "mm/blocks/owl_statue_open"},
+    { "predicate": { "custom_model_data": 8000007}, "model": "mm/blocks/owl_statue_closed"},
+    { "predicate": { "custom_model_data": 8000008}, "model": "mm/blocks/tingle_balloon"},
+
+
 
 
 
