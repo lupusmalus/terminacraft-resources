@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/ascii.png",
-            "ascent": -36,
+            "ascent": 7,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -27,7 +27,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/note_u.png",
             "height": 10,
-            "ascent": 0,
+            "ascent": 7,
             "chars": [
                 "\u25b2"
             ]
@@ -37,7 +37,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/note_l.png",
             "height": 10,
-            "ascent": 0,
+            "ascent": 7,
             "chars": [
                 "\u25c0"
             ]
@@ -48,7 +48,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/note_r.png",
             "height": 10,
-            "ascent": 0,
+            "ascent": 7,
             "chars": [
                 "\u25b6"
             ]
@@ -58,7 +58,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/note_a.png",
             "height": 10,
-            "ascent": 0,
+            "ascent": 7,
             "chars": [
                 "\u24b6"
             ]
@@ -68,10 +68,18 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/note_d.png",
             "height": 10,
-            "ascent": 0,
+            "ascent": 7,
             "chars": [
                 "\u25bc"
             ]
+        },
+
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
         }
     
     ]

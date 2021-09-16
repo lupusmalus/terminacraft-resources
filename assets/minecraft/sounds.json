@@ -330,5 +330,47 @@
         "sounds":[
             "mm/ocarina/healing"
         ]
+    },
+
+    "mm.pipe.l": {
+        "sounds":[
+            "mm/pipe/l"
+        ]
+    },
+
+    "mm.pipe.r": {
+        "sounds":[
+            "mm/pipe/r"
+        ]
+    },
+
+    "mm.pipe.d": {
+        "sounds":[
+            "mm/pipe/d"
+        ]
+    },
+
+    "mm.pipe.u": {
+        "sounds":[
+            "mm/pipe/u"
+        ]
+    },
+
+    "mm.pipe.a": {
+        "sounds":[
+            "mm/pipe/a"
+        ]
+    },
+
+    "mm.pipe.time": {
+        "sounds":[
+            "mm/pipe/time"
+        ]
+    },
+
+    "mm.pipe.healing": {
+        "sounds":[
+            "mm/pipe/healing"
+        ]
     }
 }
