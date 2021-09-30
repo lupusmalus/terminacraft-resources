@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/carpet",
-  "textures": {
-    "wool": "minecraft:block/light_blue_wool"
-  }
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/carpet",
+	"textures": {
+		"wool": "mm/blocks/cow"
+	}
 }

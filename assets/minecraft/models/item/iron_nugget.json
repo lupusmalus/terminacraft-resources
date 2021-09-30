@@ -43,6 +43,10 @@
 
     { "predicate": { "custom_model_data": 4000000}, "model": "mm/player/dekuplanner"},
     { "predicate": { "custom_model_data": 4000001}, "model": "mm/player/gorondrums"},
+    { "predicate": { "custom_model_data": 4000002}, "model": "mm/player/zoraguitar"},
+    { "predicate": { "custom_model_data": 4000003}, "model": "mm/player/dekupipes"},
+
+
 
 
     { "predicate": { "custom_model_data": 5000000}, "model": "mm/painting/milkbar"},

@@ -372,5 +372,35 @@
         "sounds":[
             "mm/pipe/healing"
         ]
+    },
+
+    "mm.drums.l": {
+        "sounds":[
+            "mm/drums/l"
+        ]
+    },
+
+    "mm.drums.r": {
+        "sounds":[
+            "mm/drums/r"
+        ]
+    },
+
+    "mm.drums.d": {
+        "sounds":[
+            "mm/drums/d"
+        ]
+    },
+
+    "mm.drums.u": {
+        "sounds":[
+            "mm/drums/u"
+        ]
+    },
+
+    "mm.drums.a": {
+        "sounds":[
+            "mm/drums/a"
+        ]
     }
 }
