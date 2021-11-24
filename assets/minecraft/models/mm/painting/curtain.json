@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 128],
+	"textures": {
+		"0": "mm/paintings/curtain",
+		"particle": "mm/paintings/curtain"
+	},
+	"elements": [
+		{
+			"from": [-1, -1, 0],
+			"to": [17, 30, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [15, 0, 15.25, 2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [14, 0, 14, 2], "texture": "#missing"},
+				"up": {"uv": [4.5, 0, 15.25, 0.25], "texture": "#missing"},
+				"down": {"uv": [0, 0, 15.2, 15.2], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"translation": [0, -53.5, 8.75],
+			"scale": [1.77, 3.16, 1]
+		}
+	}
+}

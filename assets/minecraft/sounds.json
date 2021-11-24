@@ -23,6 +23,11 @@
         ]
     },
 
+    "mm.player.sword_clang" : {
+        "sounds":[
+            "mm/player/sword_clang"
+        ]
+    },
     
     "mm.player.deku.deku_bubble" : {
         "sounds":[
@@ -39,6 +44,12 @@
     "mm.player.deku.flower_flap" : {
         "sounds":[
             "mm/player/deku/flower_flap"
+        ]
+    },
+
+    "mm.player.deku.spin" : {
+        "sounds":[
+            "mm/player/deku/spin"
         ]
     },
     
@@ -75,6 +86,18 @@
     "mm.music.minigame": {
         "sounds":[
             "mm/music/mini-game"
+        ]
+    },
+
+    "mm.music.mayor": {
+        "sounds":[
+            "mm/music/mayor"
+        ]
+    },
+
+    "mm.music.enemy": {
+        "sounds":[
+            "mm/music/enemy"
         ]
     },
 
@@ -132,6 +155,18 @@
         ]
     },
 
+    "mm.music.minigame_house": {
+        "sounds":[
+            "mm/music/minigame_house"
+        ]
+    },
+
+    "mm.music.house": {
+        "sounds":[
+            "mm/music/house"
+        ]
+    },
+
 
     "mm.event.moonstear": {
         "sounds":[
@@ -180,6 +215,18 @@
         ]
     },
 
+    "mm.mobs.honey.laugh": {
+        "sounds":[
+            "mm/mobs/honey_laugh"
+        ]
+    },
+
+    "mm.mobs.honey.mmm": {
+        "sounds":[
+            "mm/mobs/honey_mmm"
+        ]
+    },
+
     "mm.mobs.tingle.falling": {
         "sounds":[
             "mm/mobs/tingle_falling"
@@ -203,6 +250,61 @@
             "mm/mobs/bomber_aww"
         ]
     },
+
+    "mm.mobs.skulltula.descend": {
+        "sounds":[
+            "mm/mobs/skulltula/descend"
+        ]
+    },
+
+    "mm.mobs.skulltula.ascend": {
+        "sounds":[
+            "mm/mobs/skulltula/ascend"
+        ]
+    },
+
+    "mm.mobs.skulltula.die": {
+        "sounds":[
+            "mm/mobs/skulltula/die"
+        ]
+    },
+
+    "mm.mobs.skulltula.hit": {
+        "sounds":[
+            "mm/mobs/skulltula/hit"
+        ]
+    },
+
+    "mm.mobs.skulltula.hitx": {
+        "sounds":[
+            "mm/mobs/skulltula/hitx"
+        ]
+    },
+
+    "mm.mobs.skulltula.lurk": {
+        "sounds":[
+            "mm/mobs/skulltula/lurk"
+        ]
+    },
+
+    "mm.mobs.skulltula.shake": {
+        "sounds":[
+            "mm/mobs/skulltula/shake"
+        ]
+    },
+
+    "mm.mobs.skulltula.swing": {
+        "sounds":[
+            "mm/mobs/skulltula/swing"
+        ]
+    },
+
+    "mm.mobs.skulltula.turn": {
+        "sounds":[
+            "mm/mobs/skulltula/turn"
+        ]
+    },
+
 
     "mm.menu.confirm": {
         "sounds":[

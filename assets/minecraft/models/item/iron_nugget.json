@@ -63,6 +63,26 @@
     { "predicate": { "custom_model_data": 5000011}, "model": "mm/painting/bankad"},
     { "predicate": { "custom_model_data": 5000012}, "model": "mm/painting/indiegogos"},
     { "predicate": { "custom_model_data": 5000013}, "model": "mm/painting/army"},
+    { "predicate": { "custom_model_data": 5000014}, "model": "mm/painting/milkbar_window"},
+    { "predicate": { "custom_model_data": 5000015}, "model": "mm/painting/cowhead"},
+    { "predicate": { "custom_model_data": 5000016}, "model": "mm/painting/window"},
+    { "predicate": { "custom_model_data": 5000017}, "model": "mm/painting/moonmask_white"},
+    { "predicate": { "custom_model_data": 5000018}, "model": "mm/painting/moonmask_blue"},
+    { "predicate": { "custom_model_data": 5000019}, "model": "mm/painting/moonmask_green"},
+    { "predicate": { "custom_model_data": 5000020}, "model": "mm/painting/moonmask_yellow"},
+    { "predicate": { "custom_model_data": 5000021}, "model": "mm/painting/moonmask_black"},
+    { "predicate": { "custom_model_data": 5000022}, "model": "mm/painting/clock_small_centered"},
+    { "predicate": { "custom_model_data": 5000023}, "model": "mm/painting/curtain"},
+
+
+
+    
+
+
+
+
+    { "predicate": { "custom_model_data": 6000000}, "model": "mm/items/milk_bottle"},
+
 
 
 
@@ -79,6 +99,57 @@
     { "predicate": { "custom_model_data": 8000006}, "model": "mm/blocks/owl_statue_open"},
     { "predicate": { "custom_model_data": 8000007}, "model": "mm/blocks/owl_statue_closed"},
     { "predicate": { "custom_model_data": 8000008}, "model": "mm/blocks/tingle_balloon"},
+    { "predicate": { "custom_model_data": 8000009}, "model": "mm/blocks/barstool"},
+    { "predicate": { "custom_model_data": 8000010}, "model": "mm/blocks/soup"},
+    { "predicate": { "custom_model_data": 8000011}, "model": "mm/blocks/large_pot"},
+    { "predicate": { "custom_model_data": 8000012}, "model": "mm/blocks/flower_vase"},
+    { "predicate": { "custom_model_data": 8000013}, "model": "mm/blocks/chair"},
+    { "predicate": { "custom_model_data": 8000014}, "model": "mm/blocks/drawer"},
+    { "predicate": { "custom_model_data": 8000015}, "model": "mm/blocks/drawer_right"},
+    { "predicate": { "custom_model_data": 8000016}, "model": "mm/blocks/drawer_left"},
+    { "predicate": { "custom_model_data": 8000017}, "model": "mm/blocks/flower_vase_low"},
+    { "predicate": { "custom_model_data": 8000018}, "model": "mm/blocks/table"},
+    { "predicate": { "custom_model_data": 8000019}, "model": "mm/blocks/book"},
+    { "predicate": { "custom_model_data": 8000020}, "model": "mm/blocks/drawer_small"},
+    { "predicate": { "custom_model_data": 8000021}, "model": "mm/blocks/table_small"},
+    { "predicate": { "custom_model_data": 8000022}, "model": "mm/blocks/table_large"},
+    { "predicate": { "custom_model_data": 8000023}, "model": "mm/blocks/flower_vase_lower"},
+    { "predicate": { "custom_model_data": 8000024}, "model": "mm/blocks/bunkbed"},
+    { "predicate": { "custom_model_data": 8000025}, "model": "mm/blocks/big_bush_pot"},
+    { "predicate": { "custom_model_data": 8000026}, "model": "mm/blocks/bench"},
+    { "predicate": { "custom_model_data": 8000027}, "model": "mm/blocks/bench_left"},
+    { "predicate": { "custom_model_data": 8000028}, "model": "mm/blocks/bench_right"},
+    { "predicate": { "custom_model_data": 8000029}, "model": "mm/blocks/wallcandle"},
+    { "predicate": { "custom_model_data": 8000030}, "model": "mm/blocks/book_blue"},
+    { "predicate": { "custom_model_data": 8000031}, "model": "mm/blocks/wheelchair"},
+    { "predicate": { "custom_model_data": 8000032}, "model": "mm/blocks/dinnertable"},
+    { "predicate": { "custom_model_data": 8000033}, "model": "mm/blocks/fauteuil"},
+    { "predicate": { "custom_model_data": 8000034}, "model": "mm/blocks/aroma"},
+    { "predicate": { "custom_model_data": 8000035}, "model": "mm/blocks/teapot"},
+    { "predicate": { "custom_model_data": 8000036}, "model": "mm/blocks/desk"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -88,7 +159,11 @@
     { "predicate": { "custom_model_data": 9000001}, "model": "mm/mobs/deku_bubble"},
     { "predicate": { "custom_model_data": 9000002}, "model": "mm/mobs/pierre_full"},
     { "predicate": { "custom_model_data": 9000003}, "model": "mm/mobs/pierre_body"},
-    { "predicate": { "custom_model_data": 9000004}, "model": "mm/mobs/pierre_arm"}
+    { "predicate": { "custom_model_data": 9000004}, "model": "mm/mobs/pierre_arm"},
+    { "predicate": { "custom_model_data": 9000005}, "model": "mm/mobs/skulltula"},
+    { "predicate": { "custom_model_data": 9000006}, "model": "mm/mobs/skulltula_hurt"}
+
+
 
 
 

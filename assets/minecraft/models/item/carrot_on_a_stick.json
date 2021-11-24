@@ -11,6 +11,8 @@
     { "predicate": { "custom_model_data": 1000003}, "model": "mm/gui/action/open"},
     { "predicate": { "custom_model_data": 1000004}, "model": "mm/gui/action/check"},
     { "predicate": { "custom_model_data": 1000005}, "model": "mm/gui/action/dive"},
+    { "predicate": { "custom_model_data": 1000006}, "model": "mm/gui/action/attack"},
+
 
 
 
