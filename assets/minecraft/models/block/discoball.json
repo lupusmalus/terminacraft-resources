@@ -1,10 +1,9 @@
 {
 	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/red_concrete",
-		"particle": "block/red_concrete"
+		"0": "mm/blocks/discoballres",
+		"particle": "mm/blocks/discoballres"
 	},
 	"elements": [
 		{
@@ -19,5 +18,10 @@
 				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
 }

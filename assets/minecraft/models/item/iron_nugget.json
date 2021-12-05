@@ -73,6 +73,10 @@
     { "predicate": { "custom_model_data": 5000021}, "model": "mm/painting/moonmask_black"},
     { "predicate": { "custom_model_data": 5000022}, "model": "mm/painting/clock_small_centered"},
     { "predicate": { "custom_model_data": 5000023}, "model": "mm/painting/curtain"},
+    { "predicate": { "custom_model_data": 5000024}, "model": "mm/painting/disco"},
+    { "predicate": { "custom_model_data": 5000025}, "model": "mm/blocks/discoball"},
+
+
 
 
 
