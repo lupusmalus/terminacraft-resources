@@ -77,6 +77,13 @@
         ]
     },
 
+
+    "mm.music.intro": {
+        "sounds":[
+            "mm/music/intro"
+        ]
+    },
+
     "mm.music.chase": {
         "sounds":[
             "mm/music/chase"
