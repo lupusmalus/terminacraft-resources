@@ -93,6 +93,8 @@
     { "predicate": { "custom_model_data": 7000000}, "model": "mm/masks/head/keaton"},
     { "predicate": { "custom_model_data": 7000001}, "model": "mm/masks/head/bunny"},
     { "predicate": { "custom_model_data": 7000002}, "model": "mm/masks/head/majora"},
+    { "predicate": { "custom_model_data": 7000003}, "model": "mm/masks/head/majora_centered"},
+
 
     { "predicate": { "custom_model_data": 8000000}, "model": "mm/blocks/mailbox"},
     { "predicate": { "custom_model_data": 8000001}, "model": "mm/blocks/pillar"},

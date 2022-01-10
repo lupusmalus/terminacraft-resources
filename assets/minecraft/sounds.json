@@ -181,6 +181,12 @@
         ]
     },
 
+    "mm.event.fanfare": {
+        "sounds":[
+            "mm/event/fanfare"
+        ]
+    },
+
     "mm.objects.door.stone.open": {
         "sounds":[
             "mm/objects/door_stone_open"
@@ -219,6 +225,12 @@
     "mm.mobs.strayfairy": {
         "sounds":[
             "mm/mobs/strayfairy"
+        ]
+    },
+
+    "mm.mobs.arru": {
+        "sounds":[
+            "mm/mobs/arru"
         ]
     },
 
