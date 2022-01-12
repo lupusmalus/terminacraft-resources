@@ -86,6 +86,9 @@
 
 
     { "predicate": { "custom_model_data": 6000000}, "model": "mm/items/milk_bottle"},
+    { "predicate": { "custom_model_data": 6000001}, "model": "mm/heads/bomberR"},
+    { "predicate": { "custom_model_data": 6000002}, "model": "mm/heads/bomberB"},
+    { "predicate": { "custom_model_data": 6000003}, "model": "mm/heads/bomberY"},
 
 
 
@@ -133,6 +136,8 @@
     { "predicate": { "custom_model_data": 8000034}, "model": "mm/blocks/aroma"},
     { "predicate": { "custom_model_data": 8000035}, "model": "mm/blocks/teapot"},
     { "predicate": { "custom_model_data": 8000036}, "model": "mm/blocks/desk"},
+
+
 
 
 
