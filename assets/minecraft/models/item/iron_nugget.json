@@ -75,6 +75,10 @@
     { "predicate": { "custom_model_data": 5000023}, "model": "mm/painting/curtain"},
     { "predicate": { "custom_model_data": 5000024}, "model": "mm/painting/disco"},
     { "predicate": { "custom_model_data": 5000025}, "model": "mm/blocks/discoball"},
+    { "predicate": { "custom_model_data": 5000026}, "model": "mm/painting/bombdraw_big"},
+    { "predicate": { "custom_model_data": 5000027}, "model": "mm/painting/bombdraw_small"},
+
+
 
 
 

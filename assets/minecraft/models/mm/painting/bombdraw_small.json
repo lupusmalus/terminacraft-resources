@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "mm/paintings/bombdraw4",
+		"particle": "mm/paintings/bombdraw4"
+	},
+	"elements": [
+		{
+			"from": [-1, -1, 5],
+			"to": [17, 17, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, -5],
+			"translation": [-8, 5.25, 4],
+			"scale": [2, 2, 1.01]
+		}
+	}
+}
