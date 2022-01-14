@@ -93,6 +93,8 @@
     { "predicate": { "custom_model_data": 6000001}, "model": "mm/heads/bomberR"},
     { "predicate": { "custom_model_data": 6000002}, "model": "mm/heads/bomberB"},
     { "predicate": { "custom_model_data": 6000003}, "model": "mm/heads/bomberY"},
+    { "predicate": { "custom_model_data": 6000004}, "model": "mm/test/arrow"},
+
 
 
 

@@ -69,6 +69,12 @@
             "mm/music/intro"
         ]
     },
+
+    "mm.music.final_hours": {
+        "sounds": [
+            "mm/music/final_hours"
+        ]
+    },
     "mm.music.chase": {
         "sounds": [
             "mm/music/chase"
