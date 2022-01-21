@@ -3,8 +3,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/ascii.png",
-            "height": 8,
-            "ascent": -12,
+            "height": 5,
+            "ascent": -36,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -27,8 +27,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:mm/gui/countdown.png",
-            "height": 11,
-            "ascent": -10,
+            "height": 7,
+            "ascent": -35,
             "chars": [
                 "\u0052"
             ]

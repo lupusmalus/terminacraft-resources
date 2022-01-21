@@ -1845,6 +1845,12 @@
             "mm/other/astraltelescope"
         ]
     },
+
+    "mm.other.firework": {
+        "sounds": [
+            "mm/other/firework"
+        ]
+    },
     "mm.other.dawn": {
         "sounds": [
             "mm/other/dawn"
