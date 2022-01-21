@@ -40,6 +40,10 @@
     { "predicate": { "custom_model_data": 3000002}, "model": "mm/gui/rbutton"},
     { "predicate": { "custom_model_data": 3000003}, "model": "mm/gui/zbutton"},
     { "predicate": { "custom_model_data": 3000004}, "model": "mm/gui/vignette"},
+    { "predicate": { "custom_model_data": 3000005}, "model": "mm/gui/fileselect"},
+    { "predicate": { "custom_model_data": 3000006}, "model": "mm/gui/continue"},
+
+
 
     { "predicate": { "custom_model_data": 4000000}, "model": "mm/player/dekuplanner"},
     { "predicate": { "custom_model_data": 4000001}, "model": "mm/player/gorondrums"},
