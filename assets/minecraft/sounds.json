@@ -70,6 +70,12 @@
         ]
     },
 
+    "mm.music.title": {
+        "sounds": [
+            "mm/music/title"
+        ]
+    },
+
     "mm.music.final_hours": {
         "sounds": [
             "mm/music/final_hours"
