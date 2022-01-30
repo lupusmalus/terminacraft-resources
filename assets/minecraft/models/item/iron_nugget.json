@@ -42,6 +42,10 @@
     { "predicate": { "custom_model_data": 3000004}, "model": "mm/gui/vignette"},
     { "predicate": { "custom_model_data": 3000005}, "model": "mm/gui/fileselect"},
     { "predicate": { "custom_model_data": 3000006}, "model": "mm/gui/continue"},
+    { "predicate": { "custom_model_data": 3000007}, "model": "mm/gui/newgame"},
+    { "predicate": { "custom_model_data": 3000008}, "model": "mm/gui/credits"},
+
+
 
 
 
@@ -49,6 +53,8 @@
     { "predicate": { "custom_model_data": 4000001}, "model": "mm/player/gorondrums"},
     { "predicate": { "custom_model_data": 4000002}, "model": "mm/player/zoraguitar"},
     { "predicate": { "custom_model_data": 4000003}, "model": "mm/player/dekupipes"},
+    { "predicate": { "custom_model_data": 4000004}, "model": "mm/player/salesmanbag"},
+
 
 
 

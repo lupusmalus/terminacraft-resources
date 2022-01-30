@@ -69,13 +69,11 @@
             "mm/music/intro"
         ]
     },
-
     "mm.music.title": {
         "sounds": [
             "mm/music/title"
         ]
     },
-
     "mm.music.final_hours": {
         "sounds": [
             "mm/music/final_hours"
@@ -1851,7 +1849,6 @@
             "mm/other/astraltelescope"
         ]
     },
-
     "mm.other.firework": {
         "sounds": [
             "mm/other/firework"
@@ -2065,6 +2062,51 @@
     "mm.player.dekulink.dive": {
         "sounds": [
             "mm/player/dekulink/dive"
+        ]
+    },
+    "mm.player.dekulink.boing1": {
+        "sounds": [
+            "mm/player/dekulink/boing1"
+        ]
+    },
+    "mm.player.dekulink.boing2": {
+        "sounds": [
+            "mm/player/dekulink/boing2"
+        ]
+    },
+    "mm.player.dekulink.boing3": {
+        "sounds": [
+            "mm/player/dekulink/boing3"
+        ]
+    },
+    "mm.player.dekulink.boing4": {
+        "sounds": [
+            "mm/player/dekulink/boing4"
+        ]
+    },
+    "mm.player.dekulink.boing5": {
+        "sounds": [
+            "mm/player/dekulink/boing5"
+        ]
+    },
+    "mm.player.dekulink.boing6": {
+        "sounds": [
+            "mm/player/dekulink/boing6"
+        ]
+    },
+    "mm.player.dekulink.boing7": {
+        "sounds": [
+            "mm/player/dekulink/boing7"
+        ]
+    },
+    "mm.player.dekulink.boing8": {
+        "sounds": [
+            "mm/player/dekulink/boing8"
+        ]
+    },
+    "mm.player.dekulink.drown": {
+        "sounds": [
+            "mm/player/dekulink/drown"
         ]
     },
     "mm.player.dekulink.drop": {
