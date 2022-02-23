@@ -1149,6 +1149,12 @@
             "mm/npc/bomber/step"
         ]
     },
+
+    "mm.npc.bomber.laugh": {
+        "sounds": [
+            "mm/npc/bomber/laugh"
+        ]
+    },
     "mm.npc.carpenter.apprentice.arru": {
         "sounds": [
             "mm/npc/carpenter/apprentice/arru"
