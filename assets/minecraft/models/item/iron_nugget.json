@@ -152,8 +152,9 @@
     { "predicate": { "custom_model_data": 8000034}, "model": "mm/blocks/aroma"},
     { "predicate": { "custom_model_data": 8000035}, "model": "mm/blocks/teapot"},
     { "predicate": { "custom_model_data": 8000036}, "model": "mm/blocks/desk"},
-
-
+    { "predicate": { "custom_model_data": 8000037}, "model": "mm/blocks/chest_small_appear"},
+    
+    
 
 
 
