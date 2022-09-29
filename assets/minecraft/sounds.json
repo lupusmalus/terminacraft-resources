@@ -149,6 +149,12 @@
             "mm/music/minigame_house"
         ]
     },
+
+    "mm.music.fairyfountain_intro": {
+        "sounds": [
+            "mm/music/fairyfountain_intro"
+        ]
+    },
     "mm.music.house": {
         "sounds": [
             "mm/music/house"
@@ -2888,6 +2894,18 @@
     "oot.background.bush.pickup": {
         "sounds": [
             "oot/background/bush/pickup"
+        ]
+    },
+
+    "oot.background.pot.pickup": {
+        "sounds": [
+            "oot/background/pot/pickup"
+        ]
+    },
+    
+    "oot.background.pot.shatter": {
+        "sounds": [
+            "oot/background/pot/shatter"
         ]
     },
     "oot.boss.barinade.die": {

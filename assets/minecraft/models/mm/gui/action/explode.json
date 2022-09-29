@@ -1,0 +1,7 @@
+{
+    "parent": "mm/gui/action/action_base",
+    "textures": {
+        "0": "mm/gui/action/explode",
+        "particle": "mm/gui/action/explode"
+    }
+}

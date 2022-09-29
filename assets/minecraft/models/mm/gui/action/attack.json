@@ -1,34 +1,7 @@
 {
-	"credit": "Made with Blockbench",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "mm/gui/action/attack",
-		"particle": "mm/gui/action/attack"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 0],
-			"to": [16, 16, 0],
-			"faces": {
-				"north": {"uv": [0, 0, 15.75, 15.75], "texture": "#0"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
-			}
-		}
-	],
-	"gui_light": "front",
-	"display": {
-		"thirdperson_righthand": {
-			"scale": [0, 0, 0]
-		},
-		"firstperson_righthand": {
-			"scale": [0, 0, 0]
-		},
-		"gui": {
-			"scale": [2, 2, 1]
-		}
-	}
+    "parent": "mm/gui/action/action_base",
+    "textures": {
+        "0": "mm/gui/action/attack",
+        "particle": "mm/gui/action/attack"
+    }
 }

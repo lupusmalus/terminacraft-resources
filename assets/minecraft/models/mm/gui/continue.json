@@ -8,7 +8,7 @@
 	"elements": [
 		{
 			"from": [0, 0, 0],
-			"to": [16, 5, 0],
+			"to": [24, 5, 0],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
@@ -19,7 +19,12 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
+		"gui": {
+			"translation": [4.5, 15, 0],
+			"scale": [3.87, 2.8, 1]
+		},
 		"fixed": {
 			"translation": [-22.5, 5.5, 0.5],
 			"scale": [2.81, 1.92, 0]
