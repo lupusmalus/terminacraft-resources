@@ -151,9 +151,9 @@
 
 
     { "predicate": { "custom_model_data": 6000000}, "model": "mm/items/milk_bottle"},
-    { "predicate": { "custom_model_data": 6000001}, "model": "mm/heads/bomberR"},
-    { "predicate": { "custom_model_data": 6000002}, "model": "mm/heads/bomberB"},
-    { "predicate": { "custom_model_data": 6000003}, "model": "mm/heads/bomberY"},
+    { "predicate": { "custom_model_data": 6000001}, "model": "mm/heads/bomberr"},
+    { "predicate": { "custom_model_data": 6000002}, "model": "mm/heads/bomberb"},
+    { "predicate": { "custom_model_data": 6000003}, "model": "mm/heads/bombery"},
     { "predicate": { "custom_model_data": 6000004}, "model": "mm/test/arrow"},
 
 
@@ -236,7 +236,7 @@
 
 
 
-    { "predicate": { "custom_model_data": 9000000}, "model": "mm/mobs/stray_fairy_CT"},
+    { "predicate": { "custom_model_data": 9000000}, "model": "mm/mobs/stray_fairy_ct"},
     { "predicate": { "custom_model_data": 9000001}, "model": "mm/mobs/deku_bubble"},
     { "predicate": { "custom_model_data": 9000002}, "model": "mm/mobs/pierre_full"},
     { "predicate": { "custom_model_data": 9000003}, "model": "mm/mobs/pierre_body"},
