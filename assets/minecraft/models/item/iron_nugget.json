@@ -206,6 +206,7 @@
     { "predicate": { "custom_model_data": 8000037}, "model": "mm/blocks/chest_small_appear"},
     { "predicate": { "custom_model_data": 8000038}, "model": "mm/blocks/grass"},
     { "predicate": { "custom_model_data": 8000039}, "model": "mm/blocks/pot"},
+    { "predicate": { "custom_model_data": 8000040}, "model": "mm/blocks/rock"},
     
     
 

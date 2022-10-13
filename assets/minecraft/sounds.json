@@ -149,7 +149,6 @@
             "mm/music/minigame_house"
         ]
     },
-
     "mm.music.fairyfountain_intro": {
         "sounds": [
             "mm/music/fairyfountain_intro"
@@ -1155,7 +1154,6 @@
             "mm/npc/bomber/step"
         ]
     },
-
     "mm.npc.bomber.laugh": {
         "sounds": [
             "mm/npc/bomber/laugh"
@@ -2896,16 +2894,24 @@
             "oot/background/bush/pickup"
         ]
     },
-
     "oot.background.pot.pickup": {
         "sounds": [
             "oot/background/pot/pickup"
         ]
     },
-    
     "oot.background.pot.shatter": {
         "sounds": [
             "oot/background/pot/shatter"
+        ]
+    },
+    "oot.background.rock.pickup": {
+        "sounds": [
+            "oot/background/rock/pickup"
+        ]
+    },
+    "oot.background.rock.shatter": {
+        "sounds": [
+            "oot/background/rock/shatter"
         ]
     },
     "oot.boss.barinade.die": {
