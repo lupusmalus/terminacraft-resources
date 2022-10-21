@@ -69,6 +69,11 @@
             "mm/music/intro"
         ]
     },
+    "mm.music.deku_palace": {
+        "sounds": [
+            "mm/music/deku_palace"
+        ]
+    },
     "mm.music.title": {
         "sounds": [
             "mm/music/title"
