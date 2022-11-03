@@ -1,0 +1,54 @@
+{
+	"format_version": "1.10.0",
+	"particle_effect": {
+		"description": {
+			"identifier": "snowstorm:fuse",
+			"basic_render_parameters": {
+				"material": "particles_alpha",
+				"texture": "textures/particle/generic_5"
+			}
+		},
+		"components": {
+			"minecraft:emitter_rate_steady": {
+				"spawn_rate": 8,
+				"max_particles": 15
+			},
+			"minecraft:emitter_lifetime_looping": {
+				"active_time": 4
+			},
+			"minecraft:emitter_shape_point": {
+				"offset": [0, 0.1, 0],
+				"direction": [0, 1, 0]
+			},
+			"minecraft:particle_lifetime_expression": {
+				"max_lifetime": 2
+			},
+			"minecraft:particle_initial_speed": 0.5,
+			"minecraft:particle_motion_dynamic": {
+				"linear_drag_coefficient": 0.6
+			},
+			"minecraft:particle_appearance_billboard": {
+				"size": [".08*(2-variable.particle_age)", ".08*(2-variable.particle_age)"],
+				"facing_camera_mode": "rotate_xyz",
+				"uv": {
+					"texture_width": 8,
+					"texture_height": 8,
+					"uv": [0.5, 0],
+					"uv_size": [8, 8]
+				}
+			},
+			"minecraft:particle_motion_collision": {
+				"collision_radius": 0.116
+			},
+			"minecraft:particle_appearance_tinting": {
+				"color": {
+					"interpolant": "v.particle_age / 2",
+					"gradient": {
+						"0.0": "#FFFFFFFF",
+						"1.0": "#FF383838"
+					}
+				}
+			}
+		}
+	}
+}
