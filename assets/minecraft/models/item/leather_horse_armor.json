@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/leather_horse_armor"
-  }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/leather_horse_armor"},"overrides":[{"predicate":{"custom_model_data":1},"model":"modelengine:kindletronjr/torso"},{"predicate":{"custom_model_data":2},"model":"modelengine:kindletronjr/head"},{"predicate":{"custom_model_data":3},"model":"modelengine:kindletronjr/rightarm"},{"predicate":{"custom_model_data":4},"model":"modelengine:kindletronjr/leftarm"},{"predicate":{"custom_model_data":5},"model":"modelengine:kindletronjr/leftleg"},{"predicate":{"custom_model_data":6},"model":"modelengine:kindletronjr/rightleg"},{"predicate":{"custom_model_data":7},"model":"modelengine:richard/bone"},{"predicate":{"custom_model_data":8},"model":"modelengine:richard/head"},{"predicate":{"custom_model_data":9},"model":"modelengine:richard/bone3"},{"predicate":{"custom_model_data":10},"model":"modelengine:richard/bone4"},{"predicate":{"custom_model_data":11},"model":"modelengine:richard/bone5"},{"predicate":{"custom_model_data":12},"model":"modelengine:richard/bone6"},{"predicate":{"custom_model_data":13},"model":"modelengine:richard/bone7"}]}
