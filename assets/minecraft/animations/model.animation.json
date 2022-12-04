@@ -30,7 +30,7 @@
 				}
 			}
 		},
-		"animation.model.walk": {
+		"walk3": {
 			"loop": true,
 			"animation_length": 2,
 			"bones": {
