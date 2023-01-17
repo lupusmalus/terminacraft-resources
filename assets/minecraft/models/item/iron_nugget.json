@@ -207,6 +207,9 @@
     { "predicate": { "custom_model_data": 8000038}, "model": "mm/blocks/grass"},
     { "predicate": { "custom_model_data": 8000039}, "model": "mm/blocks/pot"},
     { "predicate": { "custom_model_data": 8000040}, "model": "mm/blocks/rock"},
+    { "predicate": { "custom_model_data": 8000041}, "model": "mm/blocks/warped_floor"},
+    { "predicate": { "custom_model_data": 8000042}, "model": "mm/blocks/warped_roof"},
+    { "predicate": { "custom_model_data": 8000043}, "model": "mm/blocks/warped_wall"},
     
     
 
