@@ -1,0 +1,7 @@
+#ignore winSCP scripts
+push_models.txt
+push_models.bat
+pull_models.txt
+pull_models.bat
+/.metals
+/.vscode

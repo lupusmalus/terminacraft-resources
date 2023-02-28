@@ -207,6 +207,9 @@
     { "predicate": { "custom_model_data": 8000038}, "model": "mm/blocks/grass"},
     { "predicate": { "custom_model_data": 8000039}, "model": "mm/blocks/pot"},
     { "predicate": { "custom_model_data": 8000040}, "model": "mm/blocks/rock"},
+    { "predicate": { "custom_model_data": 8000041}, "model": "mm/blocks/warped_floor"},
+    { "predicate": { "custom_model_data": 8000042}, "model": "mm/blocks/warped_roof"},
+    { "predicate": { "custom_model_data": 8000043}, "model": "mm/blocks/warped_wall"},
     
     
 
@@ -243,8 +246,8 @@
     { "predicate": { "custom_model_data": 9000003}, "model": "mm/mobs/pierre_body"},
     { "predicate": { "custom_model_data": 9000004}, "model": "mm/mobs/pierre_arm"},
     { "predicate": { "custom_model_data": 9000005}, "model": "mm/mobs/skulltula"},
-    { "predicate": { "custom_model_data": 9000006}, "model": "mm/mobs/skulltula_hurt"}
-
+    { "predicate": { "custom_model_data": 9000006}, "model": "mm/mobs/skulltula_hurt"},
+    { "predicate": { "custom_model_data": 9000007}, "model": "mm/mobs/deku_butlers_son"}
 
 
 
