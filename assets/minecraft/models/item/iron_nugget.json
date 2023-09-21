@@ -210,6 +210,7 @@
     { "predicate": { "custom_model_data": 8000041}, "model": "mm/blocks/warped_floor"},
     { "predicate": { "custom_model_data": 8000042}, "model": "mm/blocks/warped_roof"},
     { "predicate": { "custom_model_data": 8000043}, "model": "mm/blocks/warped_wall"},
+    { "predicate": { "custom_model_data": 8000044}, "model": "mm/blocks/bars"},
     
     
 
