@@ -1,6 +1,12 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-	  "layer0": "minecraft:mm/gui/zbutton"
+		"layer0": "mm/gui/zbutton"
+	},
+	"display": {
+		"gui": {
+			"translation": [-9, -2.5, 0]
+		}
 	}
-  }
+}

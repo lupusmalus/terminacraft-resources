@@ -84,6 +84,8 @@
     { "predicate": { "custom_model_data": 2000025}, "model": "mm/map/map_25"},
     { "predicate": { "custom_model_data": 2000026}, "model": "mm/map/map_26"},
     { "predicate": { "custom_model_data": 2000027}, "model": "mm/map/map_27"},
+    { "predicate": { "custom_model_data": 2000028}, "model": "mm/map/map_full"},
+
 
     { "predicate": { "custom_model_data": 3000001}, "model": "mm/gui/abutton"},
     { "predicate": { "custom_model_data": 3000002}, "model": "mm/gui/rbutton"},
@@ -95,6 +97,9 @@
     { "predicate": { "custom_model_data": 3000008}, "model": "mm/gui/credits"},
     { "predicate": { "custom_model_data": 3000009}, "model": "mm/gui/action/empty"},
     { "predicate": { "custom_model_data": 3000010}, "model": "mm/gui/action/empty"},
+    { "predicate": { "custom_model_data": 3000011}, "model": "mm/gui/start"},
+    { "predicate": { "custom_model_data": 3000012}, "model": "mm/gui/pointer"},
+
 
 
 
