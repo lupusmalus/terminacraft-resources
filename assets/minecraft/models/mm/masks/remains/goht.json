@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mm/masks/remains/goht"
+	},
+	"display": {
+		"gui": {
+			"translation": [10.75, 2.5, 0]
+		}
+	}
+}

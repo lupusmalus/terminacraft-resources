@@ -61,6 +61,11 @@
     { "predicate": { "custom_model_data": 9000020}, "model": "mm/masks/garo"},
     { "predicate": { "custom_model_data": 9000021}, "model": "mm/masks/captain"},
     { "predicate": { "custom_model_data": 9000022}, "model": "mm/masks/giant"},
-    { "predicate": { "custom_model_data": 9000023}, "model": "mm/masks/fierce_diety"}
+    { "predicate": { "custom_model_data": 9000023}, "model": "mm/masks/fierce_diety"},
+    { "predicate": { "custom_model_data": 9000024}, "model": "mm/masks/remains/odolwa"},
+    { "predicate": { "custom_model_data": 9000025}, "model": "mm/masks/remains/goht"},
+    { "predicate": { "custom_model_data": 9000026}, "model": "mm/masks/remains/gyorg"},
+    { "predicate": { "custom_model_data": 9000027}, "model": "mm/masks/remains/twinmold"}
+    
   ]
 }

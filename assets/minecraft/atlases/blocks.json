@@ -444,6 +444,26 @@
             "type": "single",
             "resource": "minecraft:mm/masks/all_night"
         },
+
+        {
+            "type": "single",
+            "resource": "minecraft:mm/masks/remains/odolwa"
+        },
+
+        {
+            "type": "single",
+            "resource": "minecraft:mm/masks/remains/goht"
+        },
+
+        {
+            "type": "single",
+            "resource": "minecraft:mm/masks/remains/gyorg"
+        },
+
+        {
+            "type": "single",
+            "resource": "minecraft:mm/masks/remains/twinmold"
+        },
         {
             "type": "single",
             "resource": "minecraft:mm/masks/blast"

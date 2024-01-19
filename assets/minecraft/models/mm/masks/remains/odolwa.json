@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mm/masks/remains/odolwa"
+	},
+	"display": {
+		"gui": {
+			"translation": [4.5, 0.25, 0]
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mm/masks/remains/twinmold"
+	},
+	"display": {
+		"gui": {
+			"translation": [3.25, 7.25, 0]
+		}
+	}
+}

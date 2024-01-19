@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mm/masks/remains/gyorg"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, 4, 0]
+		}
+	}
+}
