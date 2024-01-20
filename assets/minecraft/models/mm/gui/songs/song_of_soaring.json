@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mm/gui/songs/note_white"
+	},
+	"display": {
+		"gui": {
+			"translation": [-4.5, -2, 0],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

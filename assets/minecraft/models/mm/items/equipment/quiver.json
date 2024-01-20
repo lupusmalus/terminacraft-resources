@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mm/items/equipment/quiver"
+	},
+	"display": {
+		"gui": {
+			"translation": [-3, -0.5, 0]
+		}
+	}
+}

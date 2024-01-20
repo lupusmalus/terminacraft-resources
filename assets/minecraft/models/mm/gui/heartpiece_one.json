@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mm/gui/heartpiece_one"
+	},
+	"display": {
+		"gui": {
+			"translation": [14, -9.25, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

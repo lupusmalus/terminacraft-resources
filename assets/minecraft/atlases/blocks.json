@@ -230,6 +230,18 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:mm/gui/heartpiece_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/gui/heartpiece_three"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/gui/heartpiece_two"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:mm/gui/newgame"
         },
         {
@@ -270,6 +282,10 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:mm/items/bombers_notebook"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:mm/items/bow"
         },
         {
@@ -298,6 +314,10 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:mm/items/land_td"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:mm/items/lense"
         },
         {
@@ -311,6 +331,10 @@
         {
             "type": "single",
             "resource": "minecraft:mm/items/Milk Texture Alt Frosted Glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/moons_tear"
         },
         {
             "type": "single",
@@ -443,26 +467,6 @@
         {
             "type": "single",
             "resource": "minecraft:mm/masks/all_night"
-        },
-
-        {
-            "type": "single",
-            "resource": "minecraft:mm/masks/remains/odolwa"
-        },
-
-        {
-            "type": "single",
-            "resource": "minecraft:mm/masks/remains/goht"
-        },
-
-        {
-            "type": "single",
-            "resource": "minecraft:mm/masks/remains/gyorg"
-        },
-
-        {
-            "type": "single",
-            "resource": "minecraft:mm/masks/remains/twinmold"
         },
         {
             "type": "single",
@@ -1162,6 +1166,186 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:mm/gui/songs/note_orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/gui/songs/note_white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/gui/songs/note_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/gui/songs/note_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/gui/songs/note_purple"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/gui/songs/note_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/big_poe"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/blue_potion"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/bug"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/chateau_romani"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/deku_princess"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/empty_bottle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/fairy"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/fish"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/gold_dust"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/green_potion"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/hot_spring_water"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/magic_mushroom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/milk"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/milk_half"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/poe"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/red_potion"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/seahorse"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/spring_water"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/bottle/zora_egg"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/biggest_bomb_bag"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/biggest_quiver"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/big_bomb_bag"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/big_quiver"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/bomb_bag"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/gilded_sword"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/heros_shield"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/kokiri_sword"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/mirror_shield"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/quiver"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/equipment/razor_sword"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/event/express_mail"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/event/kafei_letter"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/event/land_td"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/event/moons_tear"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/event/mountain_td"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/event/ocean_td"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/event/pendant"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/event/room_key"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/items/event/swamp_td"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:mm/masks/head/RabbitHat"
         },
         {
@@ -1171,6 +1355,22 @@
         {
             "type": "single",
             "resource": "minecraft:mm/masks/head/majora"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/masks/remains/goht"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/masks/remains/gyorg"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/masks/remains/odolwa"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mm/masks/remains/twinmold"
         },
         {
             "type": "single",

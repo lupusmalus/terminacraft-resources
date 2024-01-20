@@ -18,6 +18,75 @@
 
 
 
+    { "predicate": { "custom_model_data": 2000000}, "model": "mm/gui/action/empty"},
+    { "predicate": { "custom_model_data": 2000001}, "model": "mm/gui/heartpiece_one"},
+    { "predicate": { "custom_model_data": 2000002}, "model": "mm/gui/heartpiece_two"},
+    { "predicate": { "custom_model_data": 2000003}, "model": "mm/gui/heartpiece_three"},
+
+
+    { "predicate": { "custom_model_data": 2000100}, "model": "mm/gui/songs/song_of_time"},
+    { "predicate": { "custom_model_data": 2000101}, "model": "mm/gui/songs/song_of_healing"},
+    { "predicate": { "custom_model_data": 2000102}, "model": "mm/gui/songs/eponas_song"},
+    { "predicate": { "custom_model_data": 2000103}, "model": "mm/gui/songs/song_of_soaring"},
+    { "predicate": { "custom_model_data": 2000104}, "model": "mm/gui/songs/song_of_storms"},
+    { "predicate": { "custom_model_data": 2000105}, "model": "mm/gui/songs/sonata_of_awakening"},
+    { "predicate": { "custom_model_data": 2000106}, "model": "mm/gui/songs/goron_lullaby"},
+    { "predicate": { "custom_model_data": 2000107}, "model": "mm/gui/songs/new_wave_bossa_nova"},
+    { "predicate": { "custom_model_data": 2000108}, "model": "mm/gui/songs/elegy_of_emptiness"},
+    { "predicate": { "custom_model_data": 2000109}, "model": "mm/gui/songs/oath_to_order"},
+
+    { "predicate": { "custom_model_data": 3000000}, "model": "mm/items/equipment/bomb_bag"},
+    { "predicate": { "custom_model_data": 3000001}, "model": "mm/items/equipment/big_bomb_bag"},
+    { "predicate": { "custom_model_data": 3000002}, "model": "mm/items/equipment/biggest_bomb_bag"},
+    { "predicate": { "custom_model_data": 3000010}, "model": "mm/items/equipment/quiver"},
+    { "predicate": { "custom_model_data": 3000011}, "model": "mm/items/equipment/big_quiver"},
+    { "predicate": { "custom_model_data": 3000012}, "model": "mm/items/equipment/biggest_quiver"},
+
+    { "predicate": { "custom_model_data": 3000020}, "model": "mm/items/equipment/heros_shield"},
+    { "predicate": { "custom_model_data": 3000021}, "model": "mm/items/equipment/mirror_shield"},
+
+
+
+    { "predicate": { "custom_model_data": 3000030}, "model": "mm/items/equipment/kokiri_sword"},
+    { "predicate": { "custom_model_data": 3000031}, "model": "mm/items/equipment/razor_sword"},
+    { "predicate": { "custom_model_data": 3000032}, "model": "mm/items/equipment/gilded_sword"},
+
+    { "predicate": { "custom_model_data": 3000100}, "model": "mm/items/event/express_mail"},
+    { "predicate": { "custom_model_data": 3000101}, "model": "mm/items/event/kafei_letter"},
+    { "predicate": { "custom_model_data": 3000102}, "model": "mm/items/event/land_td"},
+    { "predicate": { "custom_model_data": 3000103}, "model": "mm/items/event/moons_tear"},
+    { "predicate": { "custom_model_data": 3000104}, "model": "mm/items/event/mountain_td"},
+    { "predicate": { "custom_model_data": 3000105}, "model": "mm/items/event/ocean_td"},
+    { "predicate": { "custom_model_data": 3000106}, "model": "mm/items/event/pendant"},
+    { "predicate": { "custom_model_data": 3000107}, "model": "mm/items/event/room_key"},
+    { "predicate": { "custom_model_data": 3000108}, "model": "mm/items/event/swamp_td"},
+
+    { "predicate": { "custom_model_data": 3000200}, "model": "mm/items/bottle/red_potion"},
+    { "predicate": { "custom_model_data": 3000201}, "model": "mm/items/bottle/green_potion"},
+    { "predicate": { "custom_model_data": 3000202}, "model": "mm/items/bottle/blue_potion"},
+    { "predicate": { "custom_model_data": 3000203}, "model": "mm/items/bottle/milk"},
+    { "predicate": { "custom_model_data": 3000204}, "model": "mm/items/bottle/milk_half"},
+    { "predicate": { "custom_model_data": 3000205}, "model": "mm/items/bottle/chateau_romani"},
+    { "predicate": { "custom_model_data": 3000206}, "model": "mm/items/bottle/fairy"},
+    { "predicate": { "custom_model_data": 3000207}, "model": "mm/items/bottle/spring_water"},
+    { "predicate": { "custom_model_data": 3000208}, "model": "mm/items/bottle/hot_spring_water"},
+    { "predicate": { "custom_model_data": 3000209}, "model": "mm/items/bottle/magic_mushroom"},
+    { "predicate": { "custom_model_data": 3000210}, "model": "mm/items/bottle/fish"},
+    { "predicate": { "custom_model_data": 3000211}, "model": "mm/items/bottle/bug"},
+    { "predicate": { "custom_model_data": 3000212}, "model": "mm/items/bottle/poe"},
+    { "predicate": { "custom_model_data": 3000213}, "model": "mm/items/bottle/big_poe"},
+    { "predicate": { "custom_model_data": 3000214}, "model": "mm/items/bottle/deku_princess"},
+    { "predicate": { "custom_model_data": 3000215}, "model": "mm/items/bottle/gold_dust"},
+    { "predicate": { "custom_model_data": 3000216}, "model": "mm/items/bottle/seahorse"},
+    { "predicate": { "custom_model_data": 3000217}, "model": "mm/items/bottle/zora_egg"},
+    { "predicate": { "custom_model_data": 3000218}, "model": "mm/items/bottle/empty_bottle"},
+
+
+
+
+
+
+
 
 
 
@@ -36,7 +105,9 @@
     { "predicate": { "custom_model_data": 8000012}, "model": "mm/items/lense"},
     { "predicate": { "custom_model_data": 8000013}, "model": "mm/items/hookshot"},
     { "predicate": { "custom_model_data": 8000014}, "model": "mm/items/gf_sword"},
-    { "predicate": { "custom_model_data": 8000015}, "model": "mm/items/empty_bottle"},
+    { "predicate": { "custom_model_data": 8000016}, "model": "mm/items/bombers_notebook"},
+
+
       
     { "predicate": { "custom_model_data": 9000000}, "model": "mm/masks/postman"},
     { "predicate": { "custom_model_data": 9000001}, "model": "mm/masks/all_night"},

@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mm/items/equipment/heros_shield"
+	},
+	"display": {
+		"gui": {
+			"translation": [-7, 4.25, 0]
+		}
+	}
+}

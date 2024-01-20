@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mm/items/bombers_notebook"
+	},
+	"display": {
+		"gui": {
+			"translation": [-6.5, -6.25, 0]
+		}
+	}
+}

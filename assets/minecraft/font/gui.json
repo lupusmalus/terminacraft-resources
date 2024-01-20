@@ -88,7 +88,87 @@
     },
 
 
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/song_of_time_clear.png",
+      "ascent": -75,
+      "height": 18,
+      "chars": ["\u4050"]
+    },
 
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/song_of_healing_clear.png",
+      "ascent": -75,
+      "height": 18,
+      "chars": ["\u4051"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/eponas_song_clear.png",
+      "ascent": -75,
+      "height": 18,
+      "chars": ["\u4052"]
+
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/song_of_soaring_clear.png",
+      "ascent": -75,
+      "height": 18,
+      "chars": ["\u4053"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/song_of_storms_clear.png",
+      "ascent": -75,
+      "height": 18,
+      "chars": ["\u4054"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/sonata_of_awakening_clear.png",
+      "ascent": -75,
+      "height": 18,
+      "chars": ["\u4055"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/goron_lullaby_clear.png",
+      "ascent": -75,
+      "height": 18,
+      "chars": ["\u4056"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/new_wave_bossa_nova_clear.png",
+      "ascent": -75,
+      "height": 18,
+      "chars": ["\u4057"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/elegy_of_emptiness_clear.png",
+      "ascent": -75,
+      "height": 18,
+      "chars": ["\u4058"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/oath_to_order_clear.png",
+      "ascent": -75,
+      "height": 18,
+      "chars": ["\u4059"]
+    },
 
 
     {

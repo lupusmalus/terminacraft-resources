@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mm/items/equipment/gilded_sword"
+	},
+	"display": {
+		"gui": {
+			"translation": [-1.25, 4.25, 0]
+		}
+	}
+}
