@@ -26,8 +26,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:mm/gui/black.png",
-            "height": 200,
-            "ascent": 50,
+            "height": 500,
+            "ascent": 100,
             "chars": [
                 "\u0031"
             ]
