@@ -15,6 +15,7 @@
   "mm.time.tick": { "sounds": ["mm/time/tick"] },
   "mm.time.bell": { "sounds": ["mm/time/bell"] },
   "mm.music.intro": { "sounds": ["mm/music/intro"] },
+  "mm.music.newday": { "sounds": ["mm/music/newday"] },
   "mm.music.deku_palace": { "sounds": ["mm/music/deku_palace"] },
   "mm.music.title": { "sounds": ["mm/music/title"] },
   "mm.music.final_hours": { "sounds": ["mm/music/final_hours"] },
