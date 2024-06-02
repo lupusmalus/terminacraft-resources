@@ -15,6 +15,7 @@
   "mm.time.tick": { "sounds": ["mm/time/tick"] },
   "mm.time.bell": { "sounds": ["mm/time/bell"] },
   "mm.music.intro": { "sounds": ["mm/music/intro"] },
+  "mm.music.newday": { "sounds": ["mm/music/newday"] },
   "mm.music.deku_palace": { "sounds": ["mm/music/deku_palace"] },
   "mm.music.title": { "sounds": ["mm/music/title"] },
   "mm.music.final_hours": { "sounds": ["mm/music/final_hours"] },
@@ -1936,6 +1937,11 @@
   "oot.night.cicada4_loop": { "sounds": ["oot/night/cicada4_loop"] },
   "oot.night.cicada5_fade": { "sounds": ["oot/night/cicada5_fade"] },
   "oot.night.cicada5_loop": { "sounds": ["oot/night/cicada5_loop"] },
+  "oot.night.cicada1": { "sounds": ["oot/night/cicada1"] },
+  "oot.night.cicada2": { "sounds": ["oot/night/cicada2"] },
+  "oot.night.cicada3": { "sounds": ["oot/night/cicada3"] },
+  "oot.night.cicada4": { "sounds": ["oot/night/cicada4"] },
+  "oot.night.cicada5": { "sounds": ["oot/night/cicada5"] },
   "oot.night.cricket1": { "sounds": ["oot/night/cricket1"] },
   "oot.night.cricket2": { "sounds": ["oot/night/cricket2"] },
   "oot.night.cricket3": { "sounds": ["oot/night/cricket3"] },
@@ -2454,6 +2460,8 @@
     "sounds": ["mm/npc/skullkid/laugh/encounter3"]
   },
   "mm.environment.fallshaft": { "sounds": ["mm/environment/fallshaft"] },
+  "mm.environment.construction": { "sounds": ["mm/environment/construction"] },
+
   "mm.skullkid.rattle": { "sounds": ["mm/skullkid/rattle"] },
 
   "mm.ocarina.songs.song_of_time": {
