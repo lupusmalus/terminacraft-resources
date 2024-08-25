@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [256, 256],
+	"textures": {
+		"1": "entity/chest/normal_double"
+	},
+	"elements": [
+		{
+			"from": [1, 8, -6],
+			"to": [15, 13, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 8, 15]},
+			"faces": {
+				"north": {"uv": [1.6875, 3.5, 5.59375, 4.75], "texture": "#1"},
+				"east": {"uv": [9.125, 3.5, 11, 4.71875], "texture": "#1"},
+				"south": {"uv": [5.4375, 3.5625, 9.15625, 4.8125], "texture": "#1"},
+				"west": {"uv": [0, 3.5, 1.78125, 4.75], "texture": "#1"},
+				"up": {"uv": [5.4375, 4.8125, 9.25, 8.1875], "texture": "#1"},
+				"down": {"uv": [5.53125, 0, 9.21875, 3.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -31.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

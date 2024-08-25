@@ -1,0 +1,28 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:chiaro.otf",
+      "shift": [0.0, -7.1],
+      "size": 2.6,
+      "oversample": 7,
+      "skip": ["\u3000", "\u3001", "\u3002", "\u3003"]
+    },
+
+    {
+      "type": "ttf",
+      "file": "minecraft:negative_spaces.ttf",
+      "shift": [0.0, 0.0],
+      "size": 10.0,
+      "oversample": 1.0
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/purplebg1.png",
+      "height": 40,
+      "ascent": 25,
+      "chars": ["\u3001"]
+    }
+  ]
+}

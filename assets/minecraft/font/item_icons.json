@@ -1,0 +1,13 @@
+{
+    "providers":[
+        {
+            "type": "bitmap",
+            "file": "minecraft:mm/items/deku_nut.png",
+            "height": 25,
+            "ascent": 5,
+            "chars": [
+                "\u0030"
+            ]
+        }
+    ]
+}

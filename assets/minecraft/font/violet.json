@@ -4,8 +4,8 @@
     {
       "type": "ttf",
       "file": "minecraft:chiaro.otf",
-      "shift": [0.0, -6.7],
       "size": 4.8,
+      "shift": [0.0, -6.7],
       "oversample": 5.0,
       "skip": [
         "\u3000", "\u3001", "\u3002", "\u3003"

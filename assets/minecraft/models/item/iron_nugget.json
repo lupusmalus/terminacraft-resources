@@ -149,6 +149,10 @@
     { "predicate": { "custom_model_data": 5000025}, "model": "mm/blocks/discoball"},
     { "predicate": { "custom_model_data": 5000026}, "model": "mm/painting/bombdraw_big"},
     { "predicate": { "custom_model_data": 5000027}, "model": "mm/painting/bombdraw_small"},
+    { "predicate": { "custom_model_data": 5000028}, "model": "mm/painting/curiosity"},
+    { "predicate": { "custom_model_data": 5000029}, "model": "mm/painting/tradingpost"},
+    { "predicate": { "custom_model_data": 5000030}, "model": "mm/painting/honeydarling"},
+
 
 
 
@@ -166,6 +170,8 @@
     { "predicate": { "custom_model_data": 6000002}, "model": "mm/heads/bomberb"},
     { "predicate": { "custom_model_data": 6000003}, "model": "mm/heads/bombery"},
     { "predicate": { "custom_model_data": 6000004}, "model": "mm/test/arrow"},
+    { "predicate": { "custom_model_data": 6000005}, "model": "mm/items/heart_piece"},
+    { "predicate": { "custom_model_data": 6000006}, "model": "mm/items/heart_container"},
 
 
 
@@ -222,6 +228,11 @@
     { "predicate": { "custom_model_data": 8000042}, "model": "mm/blocks/warped_roof"},
     { "predicate": { "custom_model_data": 8000043}, "model": "mm/blocks/warped_wall"},
     { "predicate": { "custom_model_data": 8000044}, "model": "mm/blocks/bars"},
+    { "predicate": { "custom_model_data": 8000045}, "model": "mm/blocks/chest_small_bottom"},
+    { "predicate": { "custom_model_data": 8000046}, "model": "mm/blocks/chest_small_cover"},
+    { "predicate": { "custom_model_data": 8000047}, "model": "mm/blocks/chest_big_bottom"},
+    { "predicate": { "custom_model_data": 8000048}, "model": "mm/blocks/chest_big_cover"},
+
     
     
 

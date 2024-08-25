@@ -1520,6 +1520,7 @@
   "oot.fanfare.heartcontainer": { "sounds": ["oot/fanfare/heartcontainer"] },
   "oot.fanfare.item": { "sounds": ["oot/fanfare/item"] },
   "oot.fanfare.smallitem": { "sounds": ["oot/fanfare/smallitem"] },
+  "oot.fanfare.openchest": { "sounds": ["oot/fanfare/openchest"] },
   "oot.items.fairy": { "sounds": ["oot/items/fairy"] },
   "oot.items.hoverboots": { "sounds": ["oot/items/hoverboots"] },
   "oot.items.magicbean": { "sounds": ["oot/items/magicbean"] },
