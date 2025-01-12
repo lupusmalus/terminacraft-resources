@@ -107,6 +107,13 @@
     { "predicate": { "custom_model_data": 8000014}, "model": "mm/items/gf_sword"},
     { "predicate": { "custom_model_data": 8000016}, "model": "mm/items/bombers_notebook"},
 
+    { "predicate": { "custom_model_data": 8000017}, "model": "mm/items/bomb_none"},
+    { "predicate": { "custom_model_data": 8000018}, "model": "mm/items/bombchu_none"},
+    { "predicate": { "custom_model_data": 8000019}, "model": "mm/items/deku_stick_none"},
+    { "predicate": { "custom_model_data": 8000020}, "model": "mm/items/deku_nut_none"},
+    { "predicate": { "custom_model_data": 8000021}, "model": "mm/items/magic_beans_none"},
+    { "predicate": { "custom_model_data": 8000022}, "model": "mm/items/powder_keg_none"},
+
 
       
     { "predicate": { "custom_model_data": 9000000}, "model": "mm/masks/postman"},

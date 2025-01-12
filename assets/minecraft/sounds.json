@@ -31,11 +31,16 @@
   "mm.music.observatory": { "sounds": ["mm/music/observatory"] },
   "mm.music.termina": { "sounds": ["mm/music/termina"] },
   "mm.music.shop": { "sounds": ["mm/music/shop"] },
+  "mm.music.shop_intro": { "sounds": ["mm/music/shop_intro"] },
   "mm.music.fairyfountain": { "sounds": ["mm/music/fairyfountain"] },
   "mm.music.minigame_house": { "sounds": ["mm/music/minigame_house"] },
   "mm.music.fairyfountain_intro": {
     "sounds": ["mm/music/fairyfountain_intro"]
   },
+  "mm.music.swordsmans_school": { "sounds": ["mm/music/swordsmans_school"] },
+  "mm.music.house_intro": { "sounds": ["mm/music/house_intro"] },
+  "mm.music.curiosity": { "sounds": ["mm/music/curiosity"] },
+  "mm.music.curiosity_intro": { "sounds": ["mm/music/curiosity_intro"] },
   "mm.music.house": { "sounds": ["mm/music/house"] },
   "mm.event.moonstear": { "sounds": ["mm/event/moons_tear"] },
   "mm.event.fanfare": { "sounds": ["mm/event/fanfare"] },
