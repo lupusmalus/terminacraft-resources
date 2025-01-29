@@ -8,6 +8,18 @@
             "chars": [
                 "\u0030"
             ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:mm/items/dungeon/map.png",
+            "height": 25,
+            "ascent": 5,
+            "chars": [
+                "\u0031"
+            ]
         }
     ]
+
+
 }

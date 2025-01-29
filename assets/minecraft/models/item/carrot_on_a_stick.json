@@ -114,6 +114,7 @@
     { "predicate": { "custom_model_data": 8000021}, "model": "mm/items/magic_beans_none"},
     { "predicate": { "custom_model_data": 8000022}, "model": "mm/items/powder_keg_none"},
 
+    { "predicate": { "custom_model_data": 8000023}, "model": "mm/items/tingle_map"},
 
       
     { "predicate": { "custom_model_data": 9000000}, "model": "mm/masks/postman"},
