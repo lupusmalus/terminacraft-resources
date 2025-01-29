@@ -2563,7 +2563,7 @@
   "advMode.mode.autoexec.bat": "Always Active",
   "advMode.notEnabled": "Command blocks are not enabled on this server",
   "advMode.notAllowed": "Must be an opped player in creative mode",
-  "mount.onboard": "Press %1$s to Dismount",
+  "mount.onboard": "",
   "build.tooHigh": "Height limit for building is %s blocks",
   "item.modifiers.mainhand": "When in Main Hand:",
   "item.modifiers.offhand": "When in Off Hand:",

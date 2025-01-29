@@ -170,6 +170,104 @@
       "chars": ["\u4059"]
     },
 
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/song_of_time.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u4060"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/song_of_healing.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u4061"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/eponas_song.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u4062"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/song_of_soaring.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u4063"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/song_of_storms.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u4064"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/sonata_of_awakening.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u4065"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/goron_lullaby.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u4066"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/new_wave_bossa_nova.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u4067"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/elegy_of_emptiness.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u4068"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/oath_to_order.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u4069"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/song_of_double_time.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u406a"]
+    },
+
+    { 
+      "type": "bitmap",
+      "file": "minecraft:mm/gui/songs/inverted_song_of_time.png",
+      "ascent": -4,
+      "height": 32,
+      "chars": ["\u406b"]
+    },
+
+ 
+
 
     {
       "type": "bitmap",
