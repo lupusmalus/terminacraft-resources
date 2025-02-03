@@ -3,4 +3,4 @@
 
 Official terminacraft resource pack
 
-Arranged by LupusMalus
+Arranged by LupusMalus!
