@@ -1,26 +1,27 @@
-name: Build zip
+name: Build and Upload ZIP to Release
 
 on:
   push:
-    branches: [ main ]
+    tags:
+      - "v*"  # Runs only when pushing tags like "v1.0", "v2.1", etc.
   workflow_dispatch:
 
 permissions:
-  contents: write  # Required to push changes
+  contents: write  # Required for creating a release
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3  # Updated version
+      - uses: actions/checkout@v3  # Checkout repo
 
       - name: Create zip
         run: zip -r terminacraft.zip assets pack.mcmeta pack.png
 
-      - name: Update zip
-        run: |
-          git config --local user.name "build"
-          git config --local user.email "build@buildmail.com"
-          git pull --rebase --autostash || echo "No remote changes"
-          git diff --quiet && echo "No changes to commit" || (git add ./terminacraft.zip && git commit -m "update zip" && git push)
+      - name: Upload ZIP to GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: terminacraft.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
