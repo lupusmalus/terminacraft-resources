@@ -28,6 +28,7 @@
   "mm.music.clocktown2": { "sounds": ["mm/music/clocktown2"] },
   "mm.music.clocktown3": { "sounds": ["mm/music/clocktown3"] },
   "mm.music.storms": { "sounds": ["mm/music/storms"] },
+  "mm.music.rosa": { "sounds": ["mm/music/rosa"] },
   "mm.music.observatory": { "sounds": ["mm/music/observatory"] },
   "mm.music.termina": { "sounds": ["mm/music/termina"] },
   "mm.music.shop": { "sounds": ["mm/music/shop"] },
