@@ -28,7 +28,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/dialogue_megalo.png",
             "height": 225,
-            "ascent": 105,
+            "ascent": 101,
             "chars": [
                 "\ub33f"
             ]

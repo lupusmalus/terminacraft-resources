@@ -28,7 +28,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/dialogue_end.png",
             "height": 12,
-            "ascent": -39,
+            "ascent": -43,
             "chars": [
                 "\u0030"
             ]
@@ -38,7 +38,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/dialogue_cont.png",
             "height": 12,
-            "ascent": -39,
+            "ascent": -43,
             "chars": [
                 "\u0031"
             ]
@@ -48,7 +48,7 @@
             "type": "bitmap",
             "file": "minecraft:mm/gui/dialogue_cont.png",
             "height": 12,
-            "ascent": -200,
+            "ascent": -203,
             "chars": [
                 "\u0032"
             ]

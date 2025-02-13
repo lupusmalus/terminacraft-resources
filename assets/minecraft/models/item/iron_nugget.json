@@ -270,7 +270,9 @@
     { "predicate": { "custom_model_data": 9000004}, "model": "mm/mobs/pierre_arm"},
     { "predicate": { "custom_model_data": 9000005}, "model": "mm/mobs/skulltula"},
     { "predicate": { "custom_model_data": 9000006}, "model": "mm/mobs/skulltula_hurt"},
-    { "predicate": { "custom_model_data": 9000007}, "model": "mm/mobs/deku_butlers_son"}
+    { "predicate": { "custom_model_data": 9000007}, "model": "mm/mobs/deku_butlers_son"},
+    { "predicate": { "custom_model_data": 9000008}, "model": "mm/mobs/moon"}
+
 
 
 

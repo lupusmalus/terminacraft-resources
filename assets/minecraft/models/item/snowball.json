@@ -2,5 +2,26 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/snowball"
-  }
+  },
+  "overrides":
+  [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mm/particles/ball_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "mm/particles/ball_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "mm/particles/ball_red"
+    }
+  ]
 }

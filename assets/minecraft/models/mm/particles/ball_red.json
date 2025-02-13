@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "particle": "mm/gui/action/empty",
+      "layer0": "mm/particles/ball_red"
+    }
+  }
