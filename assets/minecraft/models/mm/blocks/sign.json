@@ -1,0 +1,48 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "mm/paintings/sign",
+		"1": "mm/paintings/sign_back",
+		"3": "block/dark_oak_log",
+		"particle": "mm/paintings/sign"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 11, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [7, 22, 7],
+			"to": [9, 24, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 7.5, 7.75], "texture": "#3"},
+				"east": {"uv": [0, 0, 7.5, 7.75], "texture": "#3"},
+				"south": {"uv": [0, 0, 7.5, 7.75], "texture": "#3"},
+				"west": {"uv": [0, 0, 7.5, 7.75], "texture": "#3"},
+				"up": {"uv": [0, 0, 7.5, 7.75], "texture": "#3"},
+				"down": {"uv": [0, 0, 7.5, 7.75], "texture": "#3"}
+			}
+		},
+		{
+			"from": [-1, 11, 7],
+			"to": [17, 22, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 15, 0.75], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {}
+}

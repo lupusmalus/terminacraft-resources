@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 128],
+	"textures": {
+		"0": "mm/paintings/swordhall_wall",
+		"particle": "mm/paintings/swordhall_wall"
+	},
+	"elements": [
+		{
+			"from": [-1, -1, 5],
+			"to": [17, 32, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"translation": [0, 1, 4],
+			"scale": [2, 4, 1.01]
+		}
+	}
+}

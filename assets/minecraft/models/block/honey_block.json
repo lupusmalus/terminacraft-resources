@@ -1,6 +1,6 @@
 {   "parent": "block/block",
     "textures": {
-        "particle": "block/honey_block_top",
+        "particle": "block/spruce_planks",
         "down": "block/honey_block_bottom",
         "up": "block/honey_block_top",
         "side": "block/honey_block_side"

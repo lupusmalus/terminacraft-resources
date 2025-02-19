@@ -152,6 +152,13 @@
     { "predicate": { "custom_model_data": 5000028}, "model": "mm/painting/curiosity"},
     { "predicate": { "custom_model_data": 5000029}, "model": "mm/painting/tradingpost"},
     { "predicate": { "custom_model_data": 5000030}, "model": "mm/painting/honeydarling"},
+    { "predicate": { "custom_model_data": 5000031}, "model": "mm/painting/swordhall_wall"},
+    { "predicate": { "custom_model_data": 5000032}, "model": "mm/painting/clock_face_moon"},
+    { "predicate": { "custom_model_data": 5000033}, "model": "mm/painting/clock_face_sun"},
+    { "predicate": { "custom_model_data": 5000034}, "model": "mm/painting/clock_ring"},
+    { "predicate": { "custom_model_data": 5000035}, "model": "mm/painting/clock_spike"},
+
+
 
 
 
@@ -232,6 +239,7 @@
     { "predicate": { "custom_model_data": 8000046}, "model": "mm/blocks/chest_small_cover"},
     { "predicate": { "custom_model_data": 8000047}, "model": "mm/blocks/chest_big_bottom"},
     { "predicate": { "custom_model_data": 8000048}, "model": "mm/blocks/chest_big_cover"},
+    { "predicate": { "custom_model_data": 8000049}, "model": "mm/blocks/sign"},
 
     
     

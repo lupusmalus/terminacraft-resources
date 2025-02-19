@@ -32,7 +32,18 @@
             "chars": [
                 "\ub33f"
             ]
-        },         {
+        },    
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:mm/gui/dialogue_sign.png",
+            "height": 225,
+            "ascent": 101,
+            "chars": [
+                "\uf33b"
+            ]
+        },   
+        {
             "type": "bitmap",
             "file": "minecraft:mm/gui/rupee.png",
             "height": 12,
