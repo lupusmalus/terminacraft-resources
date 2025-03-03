@@ -31,6 +31,15 @@
             "chars": [
                 "\u0031"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:mm/gui/vignette.png",
+            "height": 80,
+            "ascent": 38,
+            "chars": [
+                "\u0032"
+            ]
         }
     ]
 }

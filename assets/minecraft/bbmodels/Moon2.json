@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mm/mobs/moon_compress",
-		"particle": "mm/mobs/moon_compress"
+		"0": "Moon_Text_Compress",
+		"particle": "Moon_Text_Compress"
 	},
 	"elements": [
 		{

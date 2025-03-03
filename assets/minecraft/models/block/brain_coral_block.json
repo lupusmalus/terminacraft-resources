@@ -1,6 +1,24 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/brain_coral_block"
-  }
+	"credit": "Made with Blockbench",
+	"texture_size": [16, 256],
+	"textures": {
+		"1": "entity/end_crystal/end_crystal_beam",
+		"2": "block/activator_rail",
+		"particle": "block/yellow_terracotta"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 0],
+			"to": [11, 6, 17],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2.35938], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 6], "texture": "#1"},
+				"south": {"uv": [0, 6.14063, 1.5, 6.64063], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 6], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 6], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 6], "texture": "#1"}
+			}
+		}
+	]
 }
